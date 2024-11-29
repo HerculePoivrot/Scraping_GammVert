@@ -2,7 +2,7 @@ import os
 from scrapy.cmdline import execute
 
 # spider = "castorama_fr__categories"
-spider = "gammvertspider"
+spider = "gammvert"
 
 # log_directory = f"logs/scraping/{spider}"
 
@@ -18,7 +18,7 @@ spider = "gammvertspider"
 try:
     # print(f"Clean the logs in file : {log_file}")
     # with open(log_file, 'w') as f:
-    #     pass
+        # pass
     
     print(f"\nExecute spider : {spider}\n")
     
