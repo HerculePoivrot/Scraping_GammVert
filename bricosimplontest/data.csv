@@ -1,0 +1,1811 @@
+category_name,category_url,is_page_list
+Plante,/c/plante,False
+Alimentaire,/c/alimentaire,False
+Maison,/c/maison,False
+Animalerie,/c/animalerie,False
+Jardinage,/c/jardinage,False
+Aménagement extérieur,/c/amenagement-exterieur,False
+Graines de fleurs et bulbes,/c/graines-de-fleurs-et-bulbes,False
+Matériel & article de cave,/c/materiel-et-article-de-cave,False
+Son & image,/c/son-et-image,False
+Animaux du jardin,/c/animaux-du-jardin,False
+Loisirs pour adulte,/c/loisirs-pour-adulte,False
+Produit d'entretien pour mobilier de jardin,/c/produit-d-entretien-pour-mobilier-de-jardin,False
+Semences fourragères,/c/semences-fourrageres,True
+Bouchon pour bouteille de vin,/c/bouchon-pour-bouteille-de-vin,True
+Image & poster,/c/image-et-poster,True
+Abri pour animaux du jardin & insectes,/c/abri-pour-animaux-du-jardin-et-insectes,True
+Pêche,/c/peche,False
+"Lasure, peinture & vernis pour mobilier de jardin",/c/lasure-peinture-et-vernis-pour-mobilier-de-jardin,False
+"Nettoyant, protecteur & décapant pour mobilier de jardin",/c/nettoyant-protecteur-et-decapant-pour-mobilier-de-jardin,False
+Chasse,/c/chasse,False
+Apiculture,/c/apiculture,False
+Produit œnologique,/c/produit-nologique,True
+Accessoires de pêche,/c/accessoires-de-peche,True
+Accessoires de peinture pour mobilier de jardin,/c/accessoires-de-peinture-pour-mobilier-de-jardin,True
+Produit de traitement pour mobilier en bois,/c/produit-de-traitement-pour-mobilier-en-bois,True
+Cartouches & accessoires de chasse,/c/cartouches-et-accessoires-de-chasse,True
+Matériel & accessoires d'apiculture,/c/materiel-et-accessoires-d-apiculture,True
+Produit de nettoyage pour mobilier,/c/produit-de-nettoyage-pour-mobilier,True
+Vernis pour mobilier de jardin,/c/vernis-pour-mobilier-de-jardin,True
+Peinture pour mobilier de jardin,/c/peinture-pour-mobilier-de-jardin,True
+Lasure pour mobilier de jardin,/c/lasure-pour-mobilier-de-jardin,True
+Bouteille de vin vide,/c/bouteille-de-vin-vide,True
+Casier à bouteilles,/c/casier-a-bouteilles,True
+Graines de fleurs,/c/graines-de-fleurs,False
+Graines d'engrais vert,/c/graines-d-engrais-vert,True
+Graines d'arbre & d'arbuste,/c/graines-d-arbre-et-d-arbuste,True
+Graines aromatiques,/c/graines-aromatiques,False
+Bulbe à fleurs,/c/bulbe-a-fleurs,False
+Décoration & éclairage d'extérieur,/c/decoration-et-eclairage-d-exterieur,False
+Mélange de graine de fleurs,/c/melange-de-graine-de-fleurs,True
+Graines de fleurs annuelles,/c/graines-de-fleurs-annuelles,True
+Graines de fleurs vivaces,/c/graines-de-fleurs-vivaces,True
+Graines de ciboulette,/c/graines-de-ciboulette,True
+Bulbe de Renoncule,/c/bulbe-de-renoncule,True
+Objet de déco pour le jardin & statue,/c/objet-de-deco-pour-le-jardin-et-statue,False
+Lampe d'extérieur,/c/lampe-d-exterieur,False
+Bulbe de Narcisse,/c/bulbe-de-narcisse,True
+Bulbe d'Anémone,/c/bulbe-d-anemone,True
+Bulbe de Freesia,/c/bulbe-de-freesia,True
+Bulbe d'Amaryllis - Hippeastrum,/c/bulbe-d-amaryllis-hippeastrum,True
+Nain de jardin,/c/nain-de-jardin,True
+Suspension d'extérieur,/c/suspension-d-exterieur,True
+Projecteur & spot lumineux d'extérieur,/c/projecteur-et-spot-lumineux-d-exterieur,True
+Bougie d'extérieur,/c/bougie-d-exterieur,True
+Bougie anti-moustique d'extérieur,/c/bougie-anti-moustique-d-exterieur,True
+Applique murale & applique demi-lune d'extérieur,/c/applique-murale-et-applique-demi-lune-d-exterieur,True
+Lampadaire d'extérieur,/c/lampadaire-d-exterieur,True
+Borne & potelet d'extérieur,/c/borne-et-potelet-d-exterieur,True
+Lampe solaire,/c/lampe-solaire,True
+Lampe-torche d'extérieur,/c/lampe-torche-d-exterieur,True
+Accessoires & connectique pour lampe d'extérieur,/c/accessoires-et-connectique-pour-lampe-d-exterieur,True
+Mur en gabion,/c/mur-en-gabion,True
+Décoration extérieur à suspendre,/c/decoration-exterieur-a-suspendre,True
+Cadran solaire pour jardin,/c/cadran-solaire-pour-jardin,True
+Pic décoratif de jardin,/c/pic-decoratif-de-jardin,True
+Animaux décoratifs pour jardin,/c/animaux-decoratifs-pour-jardin,True
+Statue d'extérieur,/c/statue-d-exterieur,False
+Fontaine et puit de jardin,/c/fontaine-et-puit-de-jardin,True
+Bulbe de Bégonia,/c/bulbe-de-begonia,False
+Bulbe de Pivoine,/c/bulbe-de-pivoine,True
+Bulbe de Jacinthe,/c/bulbe-de-jacinthe,True
+Bulbe de Dahlia,/c/bulbe-de-dahlia,False
+Statue bouddha pour le jardin,/c/statue-bouddha-pour-le-jardin,True
+Bulbe de Cyclamen,/c/bulbe-de-cyclamen,True
+Bulbe de Bégonia retombant - Begonia pendula,/c/bulbe-de-begonia-retombant-begonia-pendula,True
+Bulbe de Bégonia frimbriata - Begonia,/c/bulbe-de-begonia-frimbriata-begonia,True
+Bulbe de Bégonia double - Begonia,/c/bulbe-de-begonia-double-begonia,True
+Bulbe de Dahlia pompon,/c/bulbe-de-dahlia-pompon,True
+Bulbe de Dahlia cactus,/c/bulbe-de-dahlia-cactus,True
+Bulbe de Dahlia nain à fleurs simples,/c/bulbe-de-dahlia-nain-a-fleurs-simples,True
+Bulbe de Dahlia décoratif,/c/bulbe-de-dahlia-decoratif,True
+Bulbe de Dahlia nain à fleurs doubles,/c/bulbe-de-dahlia-nain-a-fleurs-doubles,True
+Bulbe de Lis,/c/bulbe-de-lis,False
+Bulbe de Muguet,/c/bulbe-de-muguet,True
+Bulbe de Canna,/c/bulbe-de-canna,False
+Bulbe de Glaïeul,/c/bulbe-de-glaieul,False
+Bulbe de Crocus,/c/bulbe-de-crocus,False
+Bulbe de Tulipe,/c/bulbe-de-tulipe,False
+Lis / Lys oriental - Lilium x orientale,/c/lis-lys-oriental-lilium-x-orientale,True
+Lis / Lys asiatique - Lilium x asiaticum,/c/lis-lys-asiatique-lilium-x-asiaticum,True
+Bulbe de Canna nain,/c/bulbe-de-canna-nain,True
+Bulbe de Glaïeul à grandes fleurs - Gladiolus,/c/bulbe-de-glaieul-a-grandes-fleurs-gladiolus,True
+Bulbe de Crocus à grandes fleurs,/c/bulbe-de-crocus-a-grandes-fleurs,True
+Bulbe de Tulipe double tardive,/c/bulbe-de-tulipe-double-tardive,True
+Bulbe de Tulipe de Darwin,/c/bulbe-de-tulipe-de-darwin,True
+Bulbe de Tulipe dentelle,/c/bulbe-de-tulipe-dentelle,True
+Bulbe de Tulipe simple hâtive,/c/bulbe-de-tulipe-simple-hative,True
+Bulbe de Tulipe triomphe,/c/bulbe-de-tulipe-triomphe,True
+Bulbe de Tulipe double hâtive,/c/bulbe-de-tulipe-double-hative,True
+Bulbe de Tulipe simple tardive,/c/bulbe-de-tulipe-simple-tardive,True
+Bulbe de Tulipe fleur de lis,/c/bulbe-de-tulipe-fleur-de-lis,True
+Bulbe de Tulipe botanique - Tulipa,/c/bulbe-de-tulipe-botanique-tulipa,True
+Bulbe de Tulipe perroquet,/c/bulbe-de-tulipe-perroquet,True
+Bulbe de Crocus botanique,/c/bulbe-de-crocus-botanique,True
+Bulbe de Canna haut,/c/bulbe-de-canna-haut,True
+Bulbe d'Arum,/c/bulbe-d-arum,True
+Bulbe forcé,/c/bulbe-force,False
+Bulbe de Crocosmia,/c/bulbe-de-crocosmia,True
+Bulbe d'Iris,/c/bulbe-d-iris,True
+Graines de basilic,/c/graines-de-basilic,True
+Graines de persil,/c/graines-de-persil,True
+Graines de fleurs bisannuelles,/c/graines-de-fleurs-bisannuelles,True
+Jacinthe précoce,/c/jacinthe-precoce,True
+Bordure & sol extérieur,/c/bordure-et-sol-exterieur,False
+"Spa, jacuzzi & piscine",/c/spa-jacuzzi-et-piscine,False
+"Clôture, grillage & occultation",/c/cloture-grillage-et-occultation,False
+"Barbecue, plancha & brasero",/c/barbecue-plancha-et-brasero,False
+"Parasol, tonnelle & voile d'ombrage",/c/parasol-tonnelle-et-voile-d-ombrage,False
+Jeu de plein air pour enfant,/c/jeu-de-plein-air-pour-enfant,False
+Dalle de terrasse,/c/dalle-de-terrasse,False
+Douche extérieure,/c/douche-exterieure,True
+Portail & portillon,/c/portail-et-portillon,True
+Housse de protection pour barbecue & plancha,/c/housse-de-protection-pour-barbecue-et-plancha,True
+Store banne,/c/store-banne,True
+Accessoires pour camping & pique-nique,/c/accessoires-pour-camping-et-pique-nique,True
+Pavés et dalles en pierre,/c/paves-et-dalles-en-pierre,True
+Dalle de terrasse clipsable,/c/dalle-de-terrasse-clipsable,True
+Dalle de terrasse en bois,/c/dalle-de-terrasse-en-bois,True
+Ballon & balle pour enfant,/c/ballon-et-balle-pour-enfant,True
+Jouet d'extérieur pour enfant,/c/jouet-d-exterieur-pour-enfant,False
+Agrès et accessoires de jeu,/c/agres-et-accessoires-de-jeu,True
+Bac à sable,/c/bac-a-sable,True
+Trampoline,/c/trampoline,True
+Cabane & maisonnette pour enfants,/c/cabane-et-maisonnette-pour-enfants,True
+Toboggan d'extérieur,/c/toboggan-d-exterieur,True
+Jouet gonflable pour piscine,/c/jouet-gonflable-pour-piscine,True
+Balançoire & portique,/c/balancoire-et-portique,True
+Aire de jeux,/c/aire-de-jeux,True
+Voile d'ombrage,/c/voile-d-ombrage,True
+Store vélum,/c/store-velum,True
+Parasol & accessoires,/c/parasol-et-accessoires,False
+"Tonnelle, pergola & accessoires",/c/tonnelle-pergola-et-accessoires,False
+Accessoires & ustensiles pour barbecue,/c/accessoires-et-ustensiles-pour-barbecue,True
+Charbon de bois & allume-feux pour barbecue,/c/charbon-de-bois-et-allume-feux-pour-barbecue,True
+Plancha,/c/plancha,True
+Barbecue,/c/barbecue,False
+Housse pour parasol,/c/housse-pour-parasol,True
+Accessoires pour tonnelle & pergola,/c/accessoires-pour-tonnelle-et-pergola,False
+Tonnelle & pergola en bois,/c/tonnelle-et-pergola-en-bois,True
+Tonnelle & pergola en métal,/c/tonnelle-et-pergola-en-metal,True
+Parasol en bois,/c/parasol-en-bois,True
+Barbecue fixe,/c/barbecue-fixe,True
+Barbecue électrique,/c/barbecue-electrique,True
+Moustiquaire d'extérieur,/c/moustiquaire-d-exterieur,True
+Barbecue à gaz,/c/barbecue-a-gaz,True
+Barbecue à charbon de bois,/c/barbecue-a-charbon-de-bois,True
+Pied de parasol,/c/pied-de-parasol,True
+Parasol en aluminium,/c/parasol-en-aluminium,True
+Clôture & grillage,/c/cloture-et-grillage,False
+"Brise-vue, panneau & palissade",/c/brise-vue-panneau-et-palissade,False
+Produit d'entretien pour spa & piscine,/c/produit-d-entretien-pour-spa-et-piscine,True
+Pompe & filtre pour piscine ou spa,/c/pompe-et-filtre-pour-piscine-ou-spa,True
+Spa gonflable & accessoires,/c/spa-gonflable-et-accessoires,True
+Piscine & accessoires,/c/piscine-et-accessoires,False
+Accessoires pour pose de clôture,/c/accessoires-pour-pose-de-cloture,True
+Panneau & palissade en bois,/c/panneau-et-palissade-en-bois,True
+Accessoires pour pose de brise-vue,/c/accessoires-pour-pose-de-brise-vue,True
+Panneau & palissade en bois composite,/c/panneau-et-palissade-en-bois-composite,True
+Brise-vue en plastique,/c/brise-vue-en-plastique,True
+Piscine en bois,/c/piscine-en-bois,True
+Accessoires pour piscine,/c/accessoires-pour-piscine,True
+Piscine tubulaire,/c/piscine-tubulaire,True
+Piscine autoportante,/c/piscine-autoportante,True
+Piscine en acier,/c/piscine-en-acier,True
+Panneau décoratif en métal,/c/panneau-decoratif-en-metal,True
+Canisse & brise-vue naturel,/c/canisse-et-brise-vue-naturel,True
+Clôture en plastique,/c/cloture-en-plastique,True
+Clôture en fibre naturelle,/c/cloture-en-fibre-naturelle,True
+Clôture en bois,/c/cloture-en-bois,True
+Clôture en métal,/c/cloture-en-metal,True
+Gazon synthétique,/c/gazon-synthetique,True
+Bordure de jardin,/c/bordure-de-jardin,False
+Galets & pas japonais,/c/galets-et-pas-japonais,False
+Bassin & accessoires,/c/bassin-et-accessoires,False
+"Pot, bac & jardinière",/c/pot-bac-et-jardiniere,False
+Serre de jardin & accessoires,/c/serre-de-jardin-et-accessoires,False
+Mobilier de jardin,/c/mobilier-de-jardin,False
+Bordure de jardin en fibre naturelle,/c/bordure-de-jardin-en-fibre-naturelle,True
+Pas japonais,/c/pas-japonais,True
+Cascade pour bassin de jardin,/c/cascade-pour-bassin-de-jardin,True
+Pot de fleur en résine,/c/pot-de-fleur-en-resine,True
+Accessoires de serre,/c/accessoires-de-serre,False
+Parasol chauffant & accessoires,/c/parasol-chauffant-et-accessoires,False
+Hamac,/c/hamac,True
+Coussin d'extérieur,/c/coussin-d-exterieur,False
+Housse pour mobilier de jardin,/c/housse-pour-mobilier-de-jardin,True
+Mobilier de jardin pour enfant,/c/mobilier-de-jardin-pour-enfant,False
+Bâche pour serre tunnel,/c/bache-pour-serre-tunnel,True
+Parasol chauffant électrique,/c/parasol-chauffant-electrique,True
+Parasol chauffant à gaz,/c/parasol-chauffant-a-gaz,True
+Coussin monobloc,/c/coussin-monobloc,True
+Galette & coussin pour chaise de jardin,/c/galette-et-coussin-pour-chaise-de-jardin,True
+Fauteuil de jardin pour enfant,/c/fauteuil-de-jardin-pour-enfant,True
+Chaise de jardin pour enfant,/c/chaise-de-jardin-pour-enfant,True
+Table de jardin pour enfant,/c/table-de-jardin-pour-enfant,True
+Salon de jardin pour enfant,/c/salon-de-jardin-pour-enfant,True
+Coussin multiposition pour fauteuil de jardin,/c/coussin-multiposition-pour-fauteuil-de-jardin,True
+Coussin pour bain de soleil,/c/coussin-pour-bain-de-soleil,True
+Bain de soleil,/c/bain-de-soleil,False
+Balancelle de jardin,/c/balancelle-de-jardin,True
+Transat & chaise longue,/c/transat-et-chaise-longue,True
+Chaise de jardin,/c/chaise-de-jardin,False
+Banc de jardin,/c/banc-de-jardin,True
+Fauteuil de jardin,/c/fauteuil-de-jardin,False
+Bain de soleil en pierre,/c/bain-de-soleil-en-pierre,True
+Bain de soleil en bois composite,/c/bain-de-soleil-en-bois-composite,True
+Bain de soleil en résine tressée,/c/bain-de-soleil-en-resine-tressee,True
+Chaise de jardin en résine tressée,/c/chaise-de-jardin-en-resine-tressee,True
+Chaise de jardin en résine,/c/chaise-de-jardin-en-resine,True
+Fauteuil de jardin en résine tressée,/c/fauteuil-de-jardin-en-resine-tressee,True
+Fauteuil d'extérieur pliable,/c/fauteuil-d-exterieur-pliable,True
+Fauteuil de jardin en résine,/c/fauteuil-de-jardin-en-resine,True
+Fauteuil de jardin en bois,/c/fauteuil-de-jardin-en-bois,True
+Fauteuil de jardin en métal,/c/fauteuil-de-jardin-en-metal,True
+Chaise de jardin en bois,/c/chaise-de-jardin-en-bois,True
+Chaise d'extérieur pliable,/c/chaise-d-exterieur-pliable,True
+Chaise de jardin en métal,/c/chaise-de-jardin-en-metal,True
+Bain de soleil en bois,/c/bain-de-soleil-en-bois,True
+Bain de soleil en métal,/c/bain-de-soleil-en-metal,True
+Salon de jardin,/c/salon-de-jardin,False
+Table de jardin,/c/table-de-jardin,False
+Serre de jardin,/c/serre-de-jardin,False
+Pot de fleur en pierre,/c/pot-de-fleur-en-pierre,False
+Balconnière & jardinière pour balcon,/c/balconniere-et-jardiniere-pour-balcon,True
+Suspension pour pot et jardinière,/c/suspension-pour-pot-et-jardiniere,False
+Salon de jardin en résine tressée,/c/salon-de-jardin-en-resine-tressee,True
+Table de jardin en bois composite,/c/table-de-jardin-en-bois-composite,True
+Serre châssis,/c/serre-chassis,True
+Pot en pierre rond,/c/pot-en-pierre-rond,True
+Jardinière en pierre,/c/jardiniere-en-pierre,True
+Suspension pour pot en terre cuite,/c/suspension-pour-pot-en-terre-cuite,True
+Suspension pour pot en métal,/c/suspension-pour-pot-en-metal,True
+Suspension pour pot en plastique,/c/suspension-pour-pot-en-plastique,True
+Serre tunnel,/c/serre-tunnel,True
+Serre de balcon,/c/serre-de-balcon,True
+Mini serre,/c/mini-serre,True
+Grande serre de jardin,/c/grande-serre-de-jardin,True
+Serre en polycarbonate,/c/serre-en-polycarbonate,True
+Serre en verre,/c/serre-en-verre,True
+Table de jardin en résine tressée,/c/table-de-jardin-en-resine-tressee,True
+Table de jardin en résine,/c/table-de-jardin-en-resine,True
+Table de jardin en bois,/c/table-de-jardin-en-bois,True
+Table d'extérieur pliable,/c/table-d-exterieur-pliable,True
+Table de jardin en métal,/c/table-de-jardin-en-metal,True
+Salon de jardin en bois composite,/c/salon-de-jardin-en-bois-composite,True
+Salon d'extérieur pliable,/c/salon-d-exterieur-pliable,True
+Salon de jardin en résine,/c/salon-de-jardin-en-resine,True
+Salon de jardin en bois,/c/salon-de-jardin-en-bois,True
+Salon de jardin en métal,/c/salon-de-jardin-en-metal,True
+Pot de fleur en terre cuite émaillée,/c/pot-de-fleur-en-terre-cuite-emaillee,False
+Pot de fleur en métal,/c/pot-de-fleur-en-metal,False
+Pot de fleurs à réserve d'eau,/c/pot-de-fleurs-a-reserve-d-eau,False
+Pot de fleur en terre cuite,/c/pot-de-fleur-en-terre-cuite,False
+Pot de fleur en bois,/c/pot-de-fleur-en-bois,False
+Carré potager & potager sur pieds,/c/carre-potager-et-potager-sur-pieds,False
+Jardinière en terre cuite émaillée,/c/jardiniere-en-terre-cuite-emaillee,True
+Pot en métal rond,/c/pot-en-metal-rond,True
+Pot à réserve d'eau en résine,/c/pot-a-reserve-d-eau-en-resine,True
+Pot en terre cuite carré,/c/pot-en-terre-cuite-carre,True
+Pot en bois rond,/c/pot-en-bois-rond,True
+Accessoires pour carré potager,/c/accessoires-pour-carre-potager,True
+Carré potager en fibre naturelle,/c/carre-potager-en-fibre-naturelle,True
+Carré potager en bois,/c/carre-potager-en-bois,True
+Pot en bois carré,/c/pot-en-bois-carre,True
+Jardinière en bois,/c/jardiniere-en-bois,True
+Amphore & vase en terre cuite,/c/amphore-et-vase-en-terre-cuite,True
+Jardinière en terre cuite,/c/jardiniere-en-terre-cuite,True
+Pot horticole en terre cuite,/c/pot-horticole-en-terre-cuite,True
+Pot en terre cuite rond,/c/pot-en-terre-cuite-rond,True
+Pot à réserve d'eau en fibre,/c/pot-a-reserve-d-eau-en-fibre,True
+Pot à réserve d'eau en plastique,/c/pot-a-reserve-d-eau-en-plastique,True
+Jardinière en métal,/c/jardiniere-en-metal,True
+Pot en terre cuite émaillée rond,/c/pot-en-terre-cuite-emaillee-rond,True
+Pot de fleur en fibre,/c/pot-de-fleur-en-fibre,False
+Soucoupe & support pour pot,/c/soucoupe-et-support-pour-pot,False
+Pot de fleur en plastique,/c/pot-de-fleur-en-plastique,False
+Produit de soin et d'entretien pour le bassin,/c/produit-de-soin-et-d-entretien-pour-le-bassin,False
+Alimentation pour poisson de bassin,/c/alimentation-pour-poisson-de-bassin,False
+Plante aquatique,/c/plante-aquatique,False
+Pot en fibre rond,/c/pot-en-fibre-rond,True
+Crochet pour suspension de plante,/c/crochet-pour-suspension-de-plante,True
+Pot en plastique rotomoulé,/c/pot-en-plastique-rotomoule,True
+Produit de soin & d'entretien des poissons du bassin,/c/produit-de-soin-et-d-entretien-des-poissons-du-bassin,True
+Nourriture pour poisson de bassin en flocons,/c/nourriture-pour-poisson-de-bassin-en-flocons,True
+Plante immergée de bassin,/c/plante-immergee-de-bassin,True
+Plante de berge,/c/plante-de-berge,True
+Plante de surface pour bassin,/c/plante-de-surface-pour-bassin,True
+Nénuphar,/c/nenuphar,True
+Nourriture pour poisson de bassin en granulés,/c/nourriture-pour-poisson-de-bassin-en-granules,True
+Produit de traitement de l'eau du bassin,/c/produit-de-traitement-de-l-eau-du-bassin,True
+Produit de traitement des plantes de bassin,/c/produit-de-traitement-des-plantes-de-bassin,True
+Pot en plastique rond,/c/pot-en-plastique-rond,True
+Pot en plastique carré,/c/pot-en-plastique-carre,True
+Jardinière en plastique,/c/jardiniere-en-plastique,True
+Support à roulettes pour pot de fleurs,/c/support-a-roulettes-pour-pot-de-fleurs,True
+Support pour jardinière de balcon,/c/support-pour-jardiniere-de-balcon,True
+Soucoupe pour pot en terre cuite,/c/soucoupe-pour-pot-en-terre-cuite,True
+Soucoupe pour pot en terre cuite émaillée,/c/soucoupe-pour-pot-en-terre-cuite-emaillee,True
+Soucoupe pour pot en plastique,/c/soucoupe-pour-pot-en-plastique,True
+Soucoupe pour pot en fibre,/c/soucoupe-pour-pot-en-fibre,True
+Pot en fibre carré,/c/pot-en-fibre-carre,True
+Jardinière en fibre,/c/jardiniere-en-fibre,True
+Bâche & liner pour bassin,/c/bache-et-liner-pour-bassin,True
+Décoration pour bassin,/c/decoration-pour-bassin,False
+Matériel pour le bassin,/c/materiel-pour-le-bassin,False
+Bassin de jardin,/c/bassin-de-jardin,False
+Graviers & galets pour le jardin,/c/graviers-et-galets-pour-le-jardin,True
+Bordure de jardin en pierre,/c/bordure-de-jardin-en-pierre,True
+Bordure de jardin en bois,/c/bordure-de-jardin-en-bois,True
+Sujet cracheur pour bassin,/c/sujet-cracheur-pour-bassin,True
+Aération de bassin,/c/aeration-de-bassin,True
+Bassin de jardin préformé,/c/bassin-de-jardin-preforme,True
+Eclairage pour bassin,/c/eclairage-pour-bassin,True
+Matériel d'entretien du bassin,/c/materiel-d-entretien-du-bassin,True
+Pompe pour bassin,/c/pompe-pour-bassin,True
+Filtre de bassin,/c/filtre-de-bassin,True
+Pierre pour bassin,/c/pierre-pour-bassin,True
+Fontaine de bassin,/c/fontaine-de-bassin,True
+Bordure de jardin en métal,/c/bordure-de-jardin-en-metal,True
+Bordure de jardin en plastique,/c/bordure-de-jardin-en-plastique,True
+Abri & rangement d'extérieur,/c/abri-et-rangement-d-exterieur,False
+Outil & matériel de bricolage,/c/outil-et-materiel-de-bricolage,False
+Equipement du jardinier,/c/equipement-du-jardinier,False
+Matériel de protection des végétaux & de culture,/c/materiel-de-protection-des-vegetaux-et-de-culture,False
+Compostage & accessoires,/c/compostage-et-accessoires,False
+Outillage de jardin à main,/c/outillage-de-jardin-a-main,False
+Garage & carport,/c/garage-et-carport,True
+Peinture & droguerie,/c/peinture-et-droguerie,False
+Protection du visage,/c/protection-du-visage,False
+Matériel de semis & godet,/c/materiel-de-semis-et-godet,False
+Sacs à déchets de jardin,/c/sacs-a-dechets-de-jardin,True
+Râtelier & porte outils,/c/ratelier-et-porte-outils,True
+Outils de jardin pour enfants,/c/outils-de-jardin-pour-enfants,True
+Produit de traitement du sol,/c/produit-de-traitement-du-sol,True
+"Casque, masque et lunettes de protection",/c/casque-masque-et-lunettes-de-protection,True
+Godet en plastique pour semis,/c/godet-en-plastique-pour-semis,True
+Godet de tourbe,/c/godet-de-tourbe,True
+Accessoires pour semis,/c/accessoires-pour-semis,True
+Bouchons d'oreille & casque anti-bruit,/c/bouchons-d-oreille-et-casque-anti-bruit,True
+"Peinture pour bois, fer & sol",/c/peinture-pour-bois-fer-et-sol,True
+Peinture glycéro pour plafond,/c/peinture-glycero-pour-plafond,True
+Peinture glycéro d'intérieur,/c/peinture-glycero-d-interieur,True
+Peinture acrylique d'intérieur,/c/peinture-acrylique-d-interieur,True
+Colle & adhésif,/c/colle-et-adhesif,True
+Bombe de peinture,/c/bombe-de-peinture,True
+Petits outils de jardin,/c/petits-outils-de-jardin,True
+Manche & accessoires pour outils à main,/c/manche-et-accessoires-pour-outils-a-main,False
+Outils pour cultiver son potager,/c/outils-pour-cultiver-son-potager,False
+Grands outils de jardin,/c/grands-outils-de-jardin,True
+Outils d'entretien du jardin,/c/outils-d-entretien-du-jardin,False
+Outils pour scier et couper du bois,/c/outils-pour-scier-et-couper-du-bois,False
+Outils pour débroussailler & entretenir le gazon,/c/outils-pour-debroussailler-et-entretenir-le-gazon,False
+Manche en bois pour outil de jardin,/c/manche-en-bois-pour-outil-de-jardin,True
+Transplantoir,/c/transplantoir,True
+Plantoir à bulbe,/c/plantoir-a-bulbe,True
+Pelle à neige,/c/pelle-a-neige,True
+Lame de scie & accessoires,/c/lame-de-scie-et-accessoires,True
+Faucille,/c/faucille,True
+Epandeur,/c/epandeur,True
+Croissant de jardin,/c/croissant-de-jardin,True
+Rouleau à gazon,/c/rouleau-a-gazon,True
+Faux de jardinage,/c/faux-de-jardinage,True
+Scarificateur manuel,/c/scarificateur-manuel,True
+Cisaille à gazon,/c/cisaille-a-gazon,True
+Râteau,/c/rateau,True
+Masse pour fendre le bois,/c/masse-pour-fendre-le-bois,True
+Coin pour fendre du bois,/c/coin-pour-fendre-du-bois,True
+Chevalet à bûche,/c/chevalet-a-buche,True
+Scie à main,/c/scie-a-main,True
+Hache,/c/hache,True
+Merlin pour fendre du bois,/c/merlin-pour-fendre-du-bois,True
+Balai extérieur,/c/balai-exterieur,True
+Balai à gazon,/c/balai-a-gazon,True
+Incinérateur de jardin,/c/incinerateur-de-jardin,True
+Balai à feuilles,/c/balai-a-feuilles,True
+Louchet,/c/louchet,True
+"Brouette, chariot de jardin & accessoires",/c/brouette-chariot-de-jardin-et-accessoires,False
+Outils pour travailler le sol & désherber,/c/outils-pour-travailler-le-sol-et-desherber,False
+Outils pour tailler,/c/outils-pour-tailler,False
+Pulvéristeur & accessoires,/c/pulveristeur-et-accessoires,False
+Composteur,/c/composteur,True
+Appareil de mesure,/c/appareil-de-mesure,False
+Chariot de jardin,/c/chariot-de-jardin,True
+Cultivateur,/c/cultivateur,True
+Accessoires pour outils de taille,/c/accessoires-pour-outils-de-taille,True
+Poudreuse de jardin,/c/poudreuse-de-jardin,True
+Accessoires pour pulvérisateur de jardin,/c/accessoires-pour-pulverisateur-de-jardin,False
+Thermomètre,/c/thermometre,True
+Station météo,/c/station-meteo,True
+Pluviomètre,/c/pluviometre,True
+pH-mètre,/c/ph-metre,True
+Baromètre,/c/barometre,True
+Rampe pour pulvérisateur,/c/rampe-pour-pulverisateur,True
+Rallonge pour pulvérisateur,/c/rallonge-pour-pulverisateur,True
+Poignée de pulvérisateur,/c/poignee-de-pulverisateur,True
+Lance pour pulvérisateur,/c/lance-pour-pulverisateur,True
+Cache pour pulvérisateur,/c/cache-pour-pulverisateur,True
+Buse pour pulvérisateur,/c/buse-pour-pulverisateur,True
+Pulvérisateur à gâchette,/c/pulverisateur-a-gachette,True
+Pulvérisateur à pression préalable,/c/pulverisateur-a-pression-prealable,True
+Pulvérisateur à pression entretenue,/c/pulverisateur-a-pression-entretenue,True
+Pulvérisateur électrique,/c/pulverisateur-electrique,True
+Serpette,/c/serpette,True
+Serpe,/c/serpe,True
+Cisaille à haie,/c/cisaille-a-haie,True
+Échenilloir,/c/echenilloir,True
+Sécateur,/c/secateur,False
+Ebrancheur & coupe-branche,/c/ebrancheur-et-coupe-branche,True
+Sarcloir,/c/sarcloir,True
+Dresse-bordure,/c/dresse-bordure,True
+Houe,/c/houe,True
+Pelle,/c/pelle,True
+Sécateur coupe franche,/c/secateur-coupe-franche,True
+Sécateur à enclume,/c/secateur-a-enclume,True
+Ciseaux de jardinage,/c/ciseaux-de-jardinage,True
+Bêche,/c/beche,True
+Fourche à becher,/c/fourche-a-becher,True
+Serfouette,/c/serfouette,True
+Binette,/c/binette,True
+Fourche,/c/fourche,True
+Désherbeur manuel,/c/desherbeur-manuel,True
+Pioche,/c/pioche,True
+Croc & griffe de jardin,/c/croc-et-griffe-de-jardin,True
+Brouette,/c/brouette,False
+Accessoires de culture,/c/accessoires-de-culture,False
+"Film, voile & accessoires de protection des cultures",/c/film-voile-et-accessoires-de-protection-des-cultures,False
+Tenue de jardinier,/c/tenue-de-jardinier,False
+Gants de jardinage,/c/gants-de-jardinage,False
+Bottes et sabots de jardin,/c/bottes-et-sabots-de-jardin,False
+Roue & accessoires de brouette,/c/roue-et-accessoires-de-brouette,True
+Etiquette pour plante,/c/etiquette-pour-plante,True
+Epouvantail de jardin,/c/epouvantail-de-jardin,True
+Vêtements de chasse,/c/vetements-de-chasse,True
+Gants anti épine et ronce,/c/gants-anti-epine-et-ronce,True
+Chaussures de jardin,/c/chaussures-de-jardin,True
+Sabots galoches,/c/sabots-galoches,True
+Bottes de jardin,/c/bottes-de-jardin,True
+Veste et manteau de jardinage pour homme,/c/veste-et-manteau-de-jardinage-pour-homme,True
+Veste et manteau de jardinage pour femme,/c/veste-et-manteau-de-jardinage-pour-femme,True
+Tee-shirt et chemise de jardinage pour homme,/c/tee-shirt-et-chemise-de-jardinage-pour-homme,True
+Tee-shirt et chemise de jardinage pour femme,/c/tee-shirt-et-chemise-de-jardinage-pour-femme,True
+Sweat et pull de jardinage pour homme,/c/sweat-et-pull-de-jardinage-pour-homme,True
+Sweat et pull de jardinage pour femme,/c/sweat-et-pull-de-jardinage-pour-femme,True
+Pantalon de jardinage pour homme,/c/pantalon-de-jardinage-pour-homme,True
+Pantalon de jardinage pour femme,/c/pantalon-de-jardinage-pour-femme,True
+Chaussettes et chaussons,/c/chaussettes-et-chaussons,True
+Accessoires de jardinage pour homme,/c/accessoires-de-jardinage-pour-homme,True
+Accessoires de jardinage pour femme,/c/accessoires-de-jardinage-pour-femme,True
+Cloche de jardin,/c/cloche-de-jardin,True
+Voile de croissance & de forçage,/c/voile-de-croissance-et-de-forcage,True
+Filet de protection du jardin,/c/filet-de-protection-du-jardin,True
+Feutre géotextile,/c/feutre-geotextile,True
+Film de paillage,/c/film-de-paillage,True
+Film & voile d'hivernage,/c/film-et-voile-d-hivernage,True
+Tunnel de forçage,/c/tunnel-de-forcage,True
+Collier de tuteurage,/c/collier-de-tuteurage,True
+Attache & lien pour plante,/c/attache-et-lien-pour-plante,True
+Pergola pour plante,/c/pergola-pour-plante,True
+Treillis pour plante,/c/treillis-pour-plante,False
+Arceau de jardin,/c/arceau-de-jardin,True
+Tuteur,/c/tuteur,False
+Brouette de jardin en plastique,/c/brouette-de-jardin-en-plastique,True
+Brouette de jardin en métal,/c/brouette-de-jardin-en-metal,True
+Couverture & gouttière,/c/couverture-et-gouttiere,False
+Treillis pour plante extensible,/c/treillis-pour-plante-extensible,True
+Treillis pour plante en métal,/c/treillis-pour-plante-en-metal,True
+Tuteur colonne & parapluie,/c/tuteur-colonne-et-parapluie,True
+Treillis pour plante en bois,/c/treillis-pour-plante-en-bois,True
+Electricité,/c/electricite,False
+Tôle & plaque,/c/tole-et-plaque,True
+Gouttière & collecteur,/c/gouttiere-et-collecteur,True
+Accessoires de fixation pour toiture,/c/accessoires-de-fixation-pour-toiture,True
+Quincaillerie & fixation,/c/quincaillerie-et-fixation,False
+Matériaux de construction,/c/materiaux-de-construction,False
+Rallonge électrique et enrouleur,/c/rallonge-electrique-et-enrouleur,True
+Prise & multiprise,/c/prise-et-multiprise,True
+Lampe torche,/c/lampe-torche,True
+Boîtier de piles,/c/boitier-de-piles,True
+Penture de porte & volet,/c/penture-de-porte-et-volet,True
+Sable & gravier,/c/sable-et-gravier,True
+Rouleau d'isolant,/c/rouleau-d-isolant,True
+Manchon d'isolation & joint,/c/manchon-d-isolation-et-joint,True
+Ferraillage & treillis soudé,/c/ferraillage-et-treillis-soude,True
+Patin & butoir,/c/patin-et-butoir,True
+Fixation & attache,/c/fixation-et-attache,True
+Crochet,/c/crochet,True
+Corde & accessoires,/c/corde-et-accessoires,True
+"Clou, vis & boulon",/c/clou-vis-et-boulon,True
+Cadenas & verrou,/c/cadenas-et-verrou,True
+Boîte aux lettres & signalétique,/c/boite-aux-lettres-et-signaletique,True
+Ampoule,/c/ampoule,True
+Equipement pour véhicule,/c/equipement-pour-vehicule,False
+Matériel de chantier,/c/materiel-de-chantier,False
+Outillage à main,/c/outillage-a-main,False
+Outillage électroportatif & accessoires,/c/outillage-electroportatif-et-accessoires,False
+Coffre de jardin & armoire,/c/coffre-de-jardin-et-armoire,False
+Abri de jardin,/c/abri-de-jardin,False
+Pneumatique & accessoires,/c/pneumatique-et-accessoires,True
+Marchepied,/c/marchepied,True
+Outils de maçon,/c/outils-de-macon,True
+Compresseur & accessoires,/c/compresseur-et-accessoires,True
+Coffre de jardin & armoire en métal,/c/coffre-de-jardin-et-armoire-en-metal,True
+Accessoires pour abri de jardin,/c/accessoires-pour-abri-de-jardin,False
+Abri à bûche & range bûche extérieur,/c/abri-a-buche-et-range-buche-exterieur,True
+Abri de jardin en métal,/c/abri-de-jardin-en-metal,True
+Abri de jardin en résine & PVC,/c/abri-de-jardin-en-resine-et-pvc,True
+Abri de jardin en bois,/c/abri-de-jardin-en-bois,True
+Coffre de jardin & armoire en résine,/c/coffre-de-jardin-et-armoire-en-resine,True
+Etagère & équerre,/c/etagere-et-equerre,True
+Coffre de jardin & armoire en plastique,/c/coffre-de-jardin-et-armoire-en-plastique,True
+Coffre de jardin & armoire en bois,/c/coffre-de-jardin-et-armoire-en-bois,True
+Outils de peinture,/c/outils-de-peinture,True
+Outillage d'atelier,/c/outillage-d-atelier,True
+"Rangement, établis & caisse à outils",/c/rangement-etablis-et-caisse-a-outils,False
+Escabeau,/c/escabeau,True
+Echelle,/c/echelle,True
+Echafaudage,/c/echafaudage,True
+Antigel pour voiture,/c/antigel-pour-voiture,True
+Accumulateur & chargeur,/c/accumulateur-et-chargeur,True
+Bac de rangement,/c/bac-de-rangement,True
+Produits d'entretien et soin des végétaux,/c/produits-d-entretien-et-soin-des-vegetaux,False
+Matériel d'arrosage,/c/materiel-d-arrosage,False
+Outillage de jardin motorisé,/c/outillage-de-jardin-motorise,False
+Reptile & tortue,/c/reptile-et-tortue,False
+Oiseau,/c/oiseau,False
+Cheval,/c/cheval,False
+Amendement du sol,/c/amendement-du-sol,False
+Arrosage enterré,/c/arrosage-enterre,False
+Déneigeuse,/c/deneigeuse,True
+Hygiène & soin du terrarium,/c/hygiene-et-soin-du-terrarium,False
+Accessoires pour cage d'oiseau,/c/accessoires-pour-cage-d-oiseau,False
+Selle de cheval & accessoires,/c/selle-de-cheval-et-accessoires,True
+Fertilisant,/c/fertilisant,True
+Tuyère d'arrosage,/c/tuyere-d-arrosage,True
+Tuyau d'arrosage enterré,/c/tuyau-d-arrosage-enterre,True
+Produit de soin pour reptile,/c/produit-de-soin-pour-reptile,True
+Mangeoire & abreuvoir pour oiseau,/c/mangeoire-et-abreuvoir-pour-oiseau,True
+Nettoyage de terrarium,/c/nettoyage-de-terrarium,True
+Turbine d'arrosage,/c/turbine-d-arrosage,True
+Raccord pour arrosage enterré,/c/raccord-pour-arrosage-enterre,True
+Electrovanne d'arrosage,/c/electrovanne-d-arrosage,True
+Buse d'arrosage,/c/buse-d-arrosage,True
+Compost,/c/compost,True
+Fumier de cheval,/c/fumier-de-cheval,True
+Tourbe,/c/tourbe,False
+Fumier de ferme,/c/fumier-de-ferme,True
+"Licol, bride & filet pour cheval",/c/licol-bride-et-filet-pour-cheval,True
+Matériel d'écurie pour cheval,/c/materiel-d-ecurie-pour-cheval,True
+Matériel & accessoires d'équitation,/c/materiel-et-accessoires-d-equitation,True
+Produit de soin & d'entretien pour cheval,/c/produit-de-soin-et-d-entretien-pour-cheval,True
+Tourbe blonde,/c/tourbe-blonde,True
+Alimentation pour cheval,/c/alimentation-pour-cheval,False
+Jouet pour oiseau,/c/jouet-pour-oiseau,True
+Hygiène & soin pour oiseau,/c/hygiene-et-soin-pour-oiseau,False
+Friandise pour oiseau,/c/friandise-pour-oiseau,False
+Abreuvoir & baignoire pour oiseau,/c/abreuvoir-et-baignoire-pour-oiseau,False
+Nichoir,/c/nichoir,False
+Complément alimentaire pour cheval,/c/complement-alimentaire-pour-cheval,True
+Granulés pour cheval,/c/granules-pour-cheval,True
+Produits de soin et d'hygiène pour oiseau,/c/produits-de-soin-et-d-hygiene-pour-oiseau,True
+Friandise pour perruche,/c/friandise-pour-perruche,True
+Baignoire & abreuvoir pour oiseau à poser,/c/baignoire-et-abreuvoir-pour-oiseau-a-poser,True
+Nichoir pour oiseau sur pied,/c/nichoir-pour-oiseau-sur-pied,True
+Nichoir pour oiseau à suspendre,/c/nichoir-pour-oiseau-a-suspendre,True
+Friandise pour perroquet,/c/friandise-pour-perroquet,True
+Friandise pour oiseaux exotiques,/c/friandise-pour-oiseaux-exotiques,True
+Friandise pour grande perruche,/c/friandise-pour-grande-perruche,True
+Friandise pour canari,/c/friandise-pour-canari,True
+Complément alimentaire pour oiseau,/c/complement-alimentaire-pour-oiseau,True
+Produit d'entretien cage pour oiseau,/c/produit-d-entretien-cage-pour-oiseau,True
+Litière pour oiseau,/c/litiere-pour-oiseau,True
+Floconnées pour cheval,/c/floconnees-pour-cheval,True
+Mangeoire d'extérieur,/c/mangeoire-d-exterieur,False
+Nourriture pour oiseau,/c/nourriture-pour-oiseau,False
+Cage & volière,/c/cage-et-voliere,False
+Accessoires pour terrarium,/c/accessoires-pour-terrarium,False
+Alimentation pour reptile & tortue,/c/alimentation-pour-reptile-et-tortue,False
+Décoration pour terrarium,/c/decoration-pour-terrarium,False
+Mangeoire pour oiseau sur pied,/c/mangeoire-pour-oiseau-sur-pied,True
+Nourriture pour tourterelle & colombe,/c/nourriture-pour-tourterelle-et-colombe,True
+Nid pour oiseau,/c/nid-pour-oiseau,True
+Gamelle pour reptile,/c/gamelle-pour-reptile,True
+Complément alimentaire pour reptile & tortue,/c/complement-alimentaire-pour-reptile-et-tortue,True
+Sable & substrat pour terrarium,/c/sable-et-substrat-pour-terrarium,True
+Racine & pierre pour terrarium,/c/racine-et-pierre-pour-terrarium,True
+Plante de terrarium pour reptile,/c/plante-de-terrarium-pour-reptile,True
+"Caverne, grotte & cachette pour terrarium",/c/caverne-grotte-et-cachette-pour-terrarium,True
+Filtre pour terrarium,/c/filtre-pour-terrarium,True
+Eclairage pour terrarium,/c/eclairage-pour-terrarium,True
+Chauffage pour terrarium,/c/chauffage-pour-terrarium,True
+Cage pour perroquet,/c/cage-pour-perroquet,True
+Cage pour grande perruche,/c/cage-pour-grande-perruche,True
+Volière pour oiseau,/c/voliere-pour-oiseau,True
+Cage pour canari & petit oiseau,/c/cage-pour-canari-et-petit-oiseau,True
+Nourriture pour perruche,/c/nourriture-pour-perruche,True
+Nourriture pour perroquet,/c/nourriture-pour-perroquet,True
+Nourriture pour oiseau exotique,/c/nourriture-pour-oiseau-exotique,True
+Nourriture pour oiseau du jardin,/c/nourriture-pour-oiseau-du-jardin,False
+Nourriture pour grande perruche,/c/nourriture-pour-grande-perruche,True
+Nourriture pour canari,/c/nourriture-pour-canari,True
+Mangeoire à suspendre pour oiseaux sauvages,/c/mangeoire-a-suspendre-pour-oiseaux-sauvages,True
+Terrarium pour reptile & tortue,/c/terrarium-pour-reptile-et-tortue,False
+Brouette motorisée,/c/brouette-motorisee,True
+Graines de tournesol,/c/graines-de-tournesol,True
+Graines & mélanges pour oiseaux,/c/graines-et-melanges-pour-oiseaux,True
+Boule de graisse,/c/boule-de-graisse,True
+Accessoires et consommable pour outils motorisés,/c/accessoires-et-consommable-pour-outils-motorises,False
+Terrarium vide,/c/terrarium-vide,True
+Terrarium pour débutant,/c/terrarium-pour-debutant,True
+Kit terrarium complet pour reptile & tortule,/c/kit-terrarium-complet-pour-reptile-et-tortule,True
+Cisaille électrique,/c/cisaille-electrique,False
+Elageuse,/c/elageuse,False
+Chaîne pour tronçonneuse,/c/chaine-pour-tronconneuse,True
+Lame pour outil de jardin motorisé,/c/lame-pour-outil-de-jardin-motorise,True
+Fil pour débroussailleuse,/c/fil-pour-debroussailleuse,True
+Graisse & huile pour outils de jardin motorisé,/c/graisse-et-huile-pour-outils-de-jardin-motorise,True
+Cisaille électrique à batterie,/c/cisaille-electrique-a-batterie,True
+Elageuse thermique,/c/elageuse-thermique,True
+Elageuse électrique,/c/elageuse-electrique,True
+Nettoyeur haute pression & accessoires,/c/nettoyeur-haute-pression-et-accessoires,False
+Motoculteur et motobineuse,/c/motoculteur-et-motobineuse,True
+Fendeur de bûches,/c/fendeur-de-buches,False
+Désherbeur éléctrique,/c/desherbeur-electrique,True
+Tronçonneuse,/c/tronconneuse,False
+Aspirateur & souffleur,/c/aspirateur-et-souffleur,False
+Accessoires pour nettoyeur haute pression,/c/accessoires-pour-nettoyeur-haute-pression,True
+Nettoyeur haute pression thermique,/c/nettoyeur-haute-pression-thermique,True
+Fendeur de bûches thermique,/c/fendeur-de-buches-thermique,True
+Fendeur de bûches électrique,/c/fendeur-de-buches-electrique,True
+Tronçonneuse électrique filaire,/c/tronconneuse-electrique-filaire,True
+Souffleur électrique filaire,/c/souffleur-electrique-filaire,True
+Souffleur électrique à batterie sans fil,/c/souffleur-electrique-a-batterie-sans-fil,True
+Souffleur thermique,/c/souffleur-thermique,True
+Tronçonneuse électrique à batterie sans fil,/c/tronconneuse-electrique-a-batterie-sans-fil,True
+Tronçonneuse thermique,/c/tronconneuse-thermique,True
+Nettoyeur haute pression électrique,/c/nettoyeur-haute-pression-electrique,True
+Coupe-bordure,/c/coupe-bordure,False
+Broyeur de végétaux,/c/broyeur-de-vegetaux,False
+Taille-haie,/c/taille-haie,False
+Débrousailleuse,/c/debrousailleuse,True
+Tondeuse à gazon,/c/tondeuse-a-gazon,False
+Système d'arrosage pendant les vacances,/c/systeme-d-arrosage-pendant-les-vacances,True
+Coupe-bordure thermique,/c/coupe-bordure-thermique,True
+Broyeur de végétaux thermique,/c/broyeur-de-vegetaux-thermique,True
+Taille-haie thermique,/c/taille-haie-thermique,True
+Taille-haie électrique filaire,/c/taille-haie-electrique-filaire,True
+Tondeuse débroussailleuse,/c/tondeuse-debroussailleuse,True
+Robot tondeuse,/c/robot-tondeuse,True
+Bac de ramassage pour tondeuse,/c/bac-de-ramassage-pour-tondeuse,True
+Tondeuse manuelle,/c/tondeuse-manuelle,True
+Tondeuse thermique,/c/tondeuse-thermique,False
+Tondeuse à gazon électrique,/c/tondeuse-a-gazon-electrique,False
+Tondeuse autoportée & tracteur tondeuse,/c/tondeuse-autoportee-et-tracteur-tondeuse,True
+Taille-haie électrique à batterie sans fil,/c/taille-haie-electrique-a-batterie-sans-fil,True
+Broyeur de végétaux électrique,/c/broyeur-de-vegetaux-electrique,True
+Coupe-bordure électrique filaire,/c/coupe-bordure-electrique-filaire,True
+Tondeuse thermique tractée,/c/tondeuse-thermique-tractee,True
+Tondeuse sur coussin d'air,/c/tondeuse-sur-coussin-d-air,True
+Tondeuse électrique à batterie sans fil,/c/tondeuse-electrique-a-batterie-sans-fil,True
+Tondeuse à gazon électrique tractée,/c/tondeuse-a-gazon-electrique-tractee,True
+Tondeuse à gazon électrique poussée,/c/tondeuse-a-gazon-electrique-poussee,True
+Tondeuse thermique poussée,/c/tondeuse-thermique-poussee,True
+Coupe-bordure électrique à batterie sans fil,/c/coupe-bordure-electrique-a-batterie-sans-fil,True
+Arrosage goutte à goutte,/c/arrosage-goutte-a-goutte,False
+"Arroseur, pistolet et lance d'arrosage",/c/arroseur-pistolet-et-lance-d-arrosage,False
+Arrosoir et accessoires,/c/arrosoir-et-accessoires,False
+Programmateur d'arrosage automatique,/c/programmateur-d-arrosage-automatique,True
+Pompe à eau & accessoires,/c/pompe-a-eau-et-accessoires,False
+Dévidoir et enrouleur de tuyau d'arrosage,/c/devidoir-et-enrouleur-de-tuyau-d-arrosage,False
+Tuyau d'arrosage goutte à goutte,/c/tuyau-d-arrosage-goutte-a-goutte,True
+Pistolet d'arrosage,/c/pistolet-d-arrosage,True
+Accessoires pour arrosoir,/c/accessoires-pour-arrosoir,True
+Arrosoir en plastique ou métal,/c/arrosoir-en-plastique-ou-metal,True
+Accessoires pour pompe à eau,/c/accessoires-pour-pompe-a-eau,True
+Dévidoir nu,/c/devidoir-nu,True
+Dévidoir et enrouleur de tuyau d'arrosage équipé,/c/devidoir-et-enrouleur-de-tuyau-d-arrosage-equipe,True
+Pompe de surpresseur,/c/pompe-de-surpresseur,True
+Pompe à eau thermique,/c/pompe-a-eau-thermique,True
+Pompe vide-cave,/c/pompe-vide-cave,True
+Pompe de surface,/c/pompe-de-surface,True
+Pompe immergée,/c/pompe-immergee,True
+Lance d'arrosage,/c/lance-d-arrosage,True
+Arroseur-canon,/c/arroseur-canon,True
+Arroseur souple,/c/arroseur-souple,True
+Arroseur rotatif,/c/arroseur-rotatif,True
+Arroseur oscillant,/c/arroseur-oscillant,True
+Raccord pour tuyau d'arrosage goutte à goutte,/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte,True
+Kit d'arrosage automatique goutte à goutte,/c/kit-d-arrosage-automatique-goutte-a-goutte,True
+Goutteur,/c/goutteur,True
+Bouchon arrosage goutte à goutte,/c/bouchon-arrosage-goutte-a-goutte,True
+Tuyau d'arrosage & accessoires,/c/tuyau-d-arrosage-et-accessoires,False
+Récupérateur d'eau de pluie,/c/recuperateur-d-eau-de-pluie,True
+Désherbant,/c/desherbant,False
+Traitement maladie des plantes,/c/traitement-maladie-des-plantes,False
+Anti-nuisible & répulsif,/c/anti-nuisible-et-repulsif,False
+Ecorce & paillage,/c/ecorce-et-paillage,False
+Tuyau d'arrosage tressé,/c/tuyau-d-arrosage-tresse,True
+Raccord pour tuyau d'arrosage,/c/raccord-pour-tuyau-d-arrosage,True
+Désherbant sélectif,/c/desherbant-selectif,False
+Fongicide,/c/fongicide,False
+Anti-insecte pour plante d'intérieur,/c/anti-insecte-pour-plante-d-interieur,True
+Pouzzolane,/c/pouzzolane,True
+Billes d'argile,/c/billes-d-argile,True
+Ecorce de pin,/c/ecorce-de-pin,True
+Désherbant sélectif de gazon,/c/desherbant-selectif-de-gazon,True
+Fongicide pour plante d'extérieur,/c/fongicide-pour-plante-d-exterieur,True
+Désherbant polyvalent,/c/desherbant-polyvalent,True
+Paillis,/c/paillis,True
+Traitement d'hiver contre les insectes,/c/traitement-d-hiver-contre-les-insectes,True
+Anti-pucerons,/c/anti-pucerons,True
+Anti-insecte du sol,/c/anti-insecte-du-sol,True
+Anti-rongeur,/c/anti-rongeur,True
+Anti-fourmi,/c/anti-fourmi,True
+Anti-cochenille,/c/anti-cochenille,True
+Répulsif pour insecte volant,/c/repulsif-pour-insecte-volant,True
+Répulsif pour mouche,/c/repulsif-pour-mouche,True
+Répulsif pour insecte rampant,/c/repulsif-pour-insecte-rampant,True
+Répulsif pour moustique,/c/repulsif-pour-moustique,True
+Répulsif d'extérieur pour chien & chat,/c/repulsif-d-exterieur-pour-chien-et-chat,True
+Anti-insecte polyvalent,/c/anti-insecte-polyvalent,True
+Répulsif pour guêpe et frelon,/c/repulsif-pour-guepe-et-frelon,True
+Anti-limace,/c/anti-limace,True
+Anti-rat et souris,/c/anti-rat-et-souris,True
+Anti-taupe,/c/anti-taupe,True
+Bouillie bordelaise,/c/bouillie-bordelaise,True
+Traitement total pour jardin,/c/traitement-total-pour-jardin,True
+Traitement pour les pommes de terre,/c/traitement-pour-les-pommes-de-terre,True
+Traitement par insectes auxiliaires au jardin,/c/traitement-par-insectes-auxiliaires-au-jardin,True
+Désherbant total,/c/desherbant-total,False
+Tuyau d'arrosage tricoté,/c/tuyau-d-arrosage-tricote,True
+Tuyau d'arrosage en caoutchouc,/c/tuyau-d-arrosage-en-caoutchouc,True
+Engrais,/c/engrais,False
+Terreau & terre,/c/terreau-et-terre,False
+Elevage,/c/elevage,False
+Désherbant anti-mousse pour terrasse,/c/desherbant-anti-mousse-pour-terrasse,True
+Poisson & aquariophilie,/c/poisson-et-aquariophilie,False
+Rongeur & petit mammifère,/c/rongeur-et-petit-mammifere,False
+Stimulateur racinaire,/c/stimulateur-racinaire,True
+Terre végétale,/c/terre-vegetale,True
+Clôture pour élevage,/c/cloture-pour-elevage,False
+Terreau pour rempotage,/c/terreau-pour-rempotage,True
+Plante d'aquarium,/c/plante-d-aquarium,True
+Soin antiparasitaire pour rongeur & lapin,/c/soin-antiparasitaire-pour-rongeur-et-lapin,True
+Jouet & exercice pour lapin & rongeur,/c/jouet-et-exercice-pour-lapin-rongeur,True
+Accessoires pour cage de rongeur,/c/accessoires-pour-cage-de-rongeur,False
+Accessoires pour clôture électrique,/c/accessoires-pour-cloture-electrique,True
+Batterie & pile pour clôture,/c/batterie-et-pile-pour-cloture,True
+Clôture anti-fugue pour chien,/c/cloture-anti-fugue-pour-chien,True
+Fil & ruban pour clôture,/c/fil-et-ruban-pour-cloture,True
+Isolateur & piquet pour clôture,/c/isolateur-et-piquet-pour-cloture,True
+Maisonnette & hamac pour cage de rongeur,/c/maisonnette-et-hamac-pour-cage-de-rongeur,True
+Gamelle & abreuvoir pour lapin & rongeur,/c/gamelle-et-abreuvoir-pour-lapin-rongeur,True
+Clôture anti-fugue pour cheval,/c/cloture-anti-fugue-pour-cheval,True
+Friandise pour rongeur & petit mammifère,/c/friandise-pour-rongeur-et-petit-mammifere,False
+Hygiène & soin pour rongeur & lapin,/c/hygiene-et-soin-pour-rongeur-lapin,False
+Alimentation pour rongeur & petit mammifère,/c/alimentation-pour-rongeur-et-petit-mammifere,False
+Cage & clapier pour rongeur et lapin,/c/cage-et-clapier-pour-rongeur-et-lapin,False
+Nettoyage de l'aquarium,/c/nettoyage-de-l-aquarium,True
+Chauffage pour aquarium,/c/chauffage-pour-aquarium,True
+Friandise pour rat & souris,/c/friandise-pour-rat-et-souris,True
+Terre à bain,/c/terre-a-bain,True
+Nourriture pour rat & souris,/c/nourriture-pour-rat-et-souris,True
+Cage pour rat,/c/cage-pour-rat,True
+Cage pour furet,/c/cage-pour-furet,True
+Caisse et harnais de transport pour lapin & rongeur,/c/caisse-et-harnais-de-transport-pour-lapin-et-rongeur,True
+Cage pour hamster & souris,/c/cage-pour-hamster-et-souris,True
+Cage pour lapin & cochon d'inde,/c/cage-pour-lapin-et-cochon-d-inde,True
+Clapier d'extérieur et enclos pour lapin,/c/clapier-d-exterieur-et-enclos-pour-lapin,True
+Nourriture pour octodon & gerbille,/c/nourriture-pour-octodon-et-gerbille,True
+Nourriture pour lapin,/c/nourriture-pour-lapin,True
+Nourriture pour hamster,/c/nourriture-pour-hamster,True
+Nourriture pour furet,/c/nourriture-pour-furet,True
+Nourriture pour cochon d'inde,/c/nourriture-pour-cochon-d-inde,True
+Nourriture pour chinchilla,/c/nourriture-pour-chinchilla,True
+Foin pour rongeur & lapin,/c/foin-pour-rongeur-et-lapin,True
+Complément alimentaire pour rongeur,/c/complement-alimentaire-pour-rongeur,True
+Litière pour rongeur & lapin,/c/litiere-pour-rongeur-et-lapin,True
+"Brosse, peigne pour toilettage de lapin & rongeur",/c/brosse-peigne-pour-toilettage-de-lapin-et-rongeur,True
+Bois et pierre à ronger,/c/bois-et-pierre-a-ronger,True
+Friandise pour octodon & gerbille,/c/friandise-pour-octodon-et-gerbille,True
+Friandise pour lapin,/c/friandise-pour-lapin,True
+Friandise pour hamster,/c/friandise-pour-hamster,True
+Friandise pour furet,/c/friandise-pour-furet,True
+Friandise pour écureuil,/c/friandise-pour-ecureuil,True
+Friandise pour chinchilla,/c/friandise-pour-chinchilla,True
+Aération de l'aquarium,/c/aeration-de-l-aquarium,True
+Alimentation pour poisson & distributeur,/c/alimentation-pour-poisson-et-distributeur,False
+Eclairage pour aquarium,/c/eclairage-pour-aquarium,True
+Pompe pour aquarium,/c/pompe-pour-aquarium,True
+Entretien & soin de l'aquarium,/c/entretien-et-soin-de-l-aquarium,False
+Filtre pour aquarium & accessoires,/c/filtre-pour-aquarium-et-accessoires,False
+Distributeur de nourriture pour aquarium,/c/distributeur-de-nourriture-pour-aquarium,True
+Alimentation poissons d'eau froide,/c/alimentation-poissons-d-eau-froide,True
+Alimentation poissons d'eau chaude,/c/alimentation-poissons-d-eau-chaude,True
+Traitement et contrôle de l'eau d'aquarium,/c/traitement-et-controle-de-l-eau-d-aquarium,True
+Mousse filtrante pour aquarium,/c/mousse-filtrante-pour-aquarium,True
+Filtre interne pour aquarium,/c/filtre-interne-pour-aquarium,True
+Filtre externe pour aquarium,/c/filtre-externe-pour-aquarium,True
+Traitement & médicament pour poissons d'aquarium,/c/traitement-et-medicament-pour-poissons-d-aquarium,True
+Entretien des plantes d'aquarium,/c/entretien-des-plantes-d-aquarium,True
+Entretien & soin de l'aquarium d'eau de mer,/c/entretien-et-soin-de-l-aquarium-d-eau-de-mer,True
+Engrais pour plantes d'aquarium,/c/engrais-pour-plantes-d-aquarium,True
+Friandise pour cochon d'inde,/c/friandise-pour-cochon-d-inde,True
+Décoration d'aquarium,/c/decoration-d-aquarium,False
+Aquarium & meuble,/c/aquarium-et-meuble,False
+Terreau pour plante d'intérieur,/c/terreau-pour-plante-d-interieur,False
+Terreau pour plantation,/c/terreau-pour-plantation,True
+Terreau horticole,/c/terreau-horticole,True
+Terreau universel,/c/terreau-universel,True
+Sable & gravier pour aquarium,/c/sable-et-gravier-pour-aquarium,True
+Aquarium rond,/c/aquarium-rond,True
+Terreau pour orchidée,/c/terreau-pour-orchidee,True
+Terreau pour cactus,/c/terreau-pour-cactus,True
+Terreau pour bonsaï,/c/terreau-pour-bonsai,True
+Aquarium décoratif,/c/aquarium-decoratif,True
+Meuble pour aquarium,/c/meuble-pour-aquarium,True
+Cuve d'aquarium nue,/c/cuve-d-aquarium-nue,True
+Aquarium pour poissons d'eau froide,/c/aquarium-pour-poissons-d-eau-froide,True
+Aquarium pour poissons d'eau chaude,/c/aquarium-pour-poissons-d-eau-chaude,True
+Plante artificielle pour aquarium,/c/plante-artificielle-pour-aquarium,True
+Fond d'aquarium et poster,/c/fond-d-aquarium-et-poster,True
+Décoration d'aquarium pour enfant,/c/decoration-d-aquarium-pour-enfant,True
+Décor d'aquarium naturel,/c/decor-d-aquarium-naturel,True
+Terreau pour plante d'extérieur,/c/terreau-pour-plante-d-exterieur,False
+Hormone de bouturage,/c/hormone-de-bouturage,True
+Engrais pour tomate,/c/engrais-pour-tomate,True
+Engrais pour plante de terre de bruyère,/c/engrais-pour-plante-de-terre-de-bruyere,True
+Engrais pour géranium,/c/engrais-pour-geranium,True
+Engrais pour plante d'intérieur,/c/engrais-pour-plante-d-interieur,False
+Terreau pour semis,/c/terreau-pour-semis,True
+Terreau pour géranium,/c/terreau-pour-geranium,True
+Terreau pour agrumes,/c/terreau-pour-agrumes,True
+Terre de bruyère,/c/terre-de-bruyere,True
+Engrais pour fraisier,/c/engrais-pour-fraisier,True
+Engrais pour plante verte,/c/engrais-pour-plante-verte,True
+Engrais pour plante d'intérieur fleurie,/c/engrais-pour-plante-d-interieur-fleurie,True
+Engrais pour fleur,/c/engrais-pour-fleur,True
+Engrais pour agrume,/c/engrais-pour-agrume,True
+Engrais pour plantation,/c/engrais-pour-plantation,True
+Engrais pour arbre et arbuste,/c/engrais-pour-arbre-et-arbuste,True
+Engrais pour rosier,/c/engrais-pour-rosier,True
+Engrais pour fruit et légume,/c/engrais-pour-fruit-et-legume,True
+Engrais organique,/c/engrais-organique,False
+Engrais universel,/c/engrais-universel,True
+Engrais pour gazon,/c/engrais-pour-gazon,False
+Poule & basse-cour,/c/poule-et-basse-cour,False
+Chat,/c/chat,False
+Chien,/c/chien,False
+Sang séché,/c/sang-seche,True
+Corne broyée,/c/corne-broyee,True
+Engrais pour gazon anti-mousse,/c/engrais-pour-gazon-anti-mousse,True
+Entretien & soin de la basse-cour,/c/entretien-et-soin-de-la-basse-cour,False
+Couchage pour chat,/c/couchage-pour-chat,False
+Vêtements pour chien,/c/vetements-pour-chien,False
+Gamelle & distributeur pour chien,/c/gamelle-et-distributeur-pour-chien,False
+Soin antiparasitaire pour chien,/c/soin-antiparasitaire-pour-chien,False
+Jouet & jeu pour chien,/c/jouet-et-jeu-pour-chien,False
+Soin de la poule,/c/soin-de-la-poule,True
+Panier pour chat,/c/panier-pour-chat,True
+Pull pour chien,/c/pull-pour-chien,True
+Gamelle pour chien,/c/gamelle-pour-chien,True
+Vermifuge pour chien,/c/vermifuge-pour-chien,True
+Peluche pour chien,/c/peluche-pour-chien,True
+Corde pour chien,/c/corde-pour-chien,True
+Peigne anti-puces et tire-tiques pour chien,/c/peigne-anti-puces-et-tire-tiques-pour-chien,True
+Anti-puce pour chien,/c/anti-puce-pour-chien,True
+Distributeur automatique pour chien,/c/distributeur-automatique-pour-chien,True
+Manteau pour chien,/c/manteau-pour-chien,True
+Coussin & niche pour chat,/c/coussin-et-niche-pour-chat,True
+Hygiène du poulailler,/c/hygiene-du-poulailler,True
+Comportement & éducation du chien,/c/comportement-et-education-du-chien,False
+"Laisse, collier & harnais pour chien",/c/laisse-collier-et-harnais-pour-chien,False
+"Toilettage, soin & hygiène du chien",/c/toilettage-soin-et-hygiene-du-chien,False
+Transport du chien,/c/transport-du-chien,False
+Niche pour chien,/c/niche-pour-chien,False
+Couchage pour chien,/c/couchage-pour-chien,False
+Matériel d'agility pour chien,/c/materiel-d-agility-pour-chien,True
+Muselière pour chien,/c/museliere-pour-chien,True
+Couche pour chien,/c/couche-pour-chien,True
+Sac de transport pour chien,/c/sac-de-transport-pour-chien,True
+Niche en plastique pour chien,/c/niche-en-plastique-pour-chien,True
+Tapis pour chien,/c/tapis-pour-chien,True
+Corbeille pour chien,/c/corbeille-pour-chien,True
+Panier pour chien,/c/panier-pour-chien,True
+Coussin & matelas pour chien,/c/coussin-et-matelas-pour-chien,True
+Niche en bois pour chien,/c/niche-en-bois-pour-chien,True
+Caisse de transport pour chien,/c/caisse-de-transport-pour-chien,True
+Accessoires de transport en voiture pour chien,/c/accessoires-de-transport-en-voiture-pour-chien,True
+Après-shampoing pour chien,/c/apres-shampoing-pour-chien,True
+"Soin des coussinets, yeux et oreilles pour chien",/c/soin-des-coussinets-yeux-et-oreilles-pour-chien,True
+Tapis de propreté pour chien,/c/tapis-de-proprete-pour-chien,True
+Hygiène bucco-dentaire pour chien,/c/hygiene-bucco-dentaire-pour-chien,True
+Lingette & lotion pour chien,/c/lingette-et-lotion-pour-chien,True
+Tondeuse & ciseaux pour chien,/c/tondeuse-et-ciseaux-pour-chien,True
+Shampoing pour chien,/c/shampoing-pour-chien,True
+Brosse pour chien,/c/brosse-pour-chien,True
+Médaille pour chien,/c/medaille-pour-chien,True
+Laisse pour chien,/c/laisse-pour-chien,False
+Harnais pour chien,/c/harnais-pour-chien,True
+Distributeur & sacs à déjection canine,/c/distributeur-et-sacs-a-dejection-canine,True
+Collier pour chien,/c/collier-pour-chien,True
+Accessoires de dressage & anti-aboiement pour chien,/c/accessoires-de-dressage-et-anti-aboiement-pour-chien,True
+Alimentation pour chien,/c/alimentation-pour-chien,False
+Laisse à enrouleur pour chien,/c/laisse-a-enrouleur-pour-chien,True
+Comportement & éducation du chat,/c/comportement-et-education-du-chat,False
+Jouet & jeu pour chat,/c/jouet-et-jeu-pour-chat,False
+"Toilettage, soin & hygiène du chat",/c/toilettage-soin-et-hygiene-du-chat,False
+"Collier, laisse & harnais pour chat",/c/collier-laisse-et-harnais-pour-chat,False
+Complément alimentaire pour chien,/c/complement-alimentaire-pour-chien,True
+Pâtée pour chien,/c/patee-pour-chien,True
+Répulsif pour chat d'intérieur,/c/repulsif-pour-chat-d-interieur,True
+Tunnel pour chat,/c/tunnel-pour-chat,True
+"Soin des coussinets, yeux et oreilles pour chat",/c/soin-des-coussinets-yeux-et-oreilles-pour-chat,True
+Médaille pour chat,/c/medaille-pour-chat,True
+Laisse pour chat,/c/laisse-pour-chat,True
+Harnais pour chat,/c/harnais-pour-chat,True
+Collier pour chat,/c/collier-pour-chat,True
+Shampoing pour chat,/c/shampoing-pour-chat,True
+Lingette & lotion pour chat,/c/lingette-et-lotion-pour-chat,True
+Hygiène bucco-dentaire pour chat,/c/hygiene-bucco-dentaire-pour-chat,True
+Coupe-griffes pour chat,/c/coupe-griffes-pour-chat,True
+Brosse pour chat,/c/brosse-pour-chat,True
+Souris pour chat,/c/souris-pour-chat,True
+Canne à pêche pour chat,/c/canne-a-peche-pour-chat,True
+Balle pour chat,/c/balle-pour-chat,True
+Matériel de dressage pour chat,/c/materiel-de-dressage-pour-chat,True
+Clôture pour chat,/c/cloture-pour-chat,True
+Friandise pour chien,/c/friandise-pour-chien,False
+Alimentation pour chien naturelle,/c/alimentation-pour-chien-naturelle,True
+Transport du chat,/c/transport-du-chat,False
+Croquettes pour chien,/c/croquettes-pour-chien,True
+"Gamelle, distributeur & fontaine pour chat",/c/gamelle-distributeur-et-fontaine-pour-chat,False
+Os à macher pour chien,/c/os-a-macher-pour-chien,True
+Friandise bucco-dentaire pour chien,/c/friandise-bucco-dentaire-pour-chien,True
+Biscuit pour chien,/c/biscuit-pour-chien,True
+Sac de transport pour chat,/c/sac-de-transport-pour-chat,True
+Caisse de transport pour chat,/c/caisse-de-transport-pour-chat,True
+Gamelle pour chat,/c/gamelle-pour-chat,True
+Distributeur automatique & fontaine pour chat,/c/distributeur-automatique-et-fontaine-pour-chat,True
+Chatière,/c/chatiere,True
+Arbre à chat & griffoir,/c/arbre-a-chat-et-griffoir,False
+Litière pour chat & accessoires,/c/litiere-pour-chat-et-accessoires,False
+Alimentation pour chat,/c/alimentation-pour-chat,False
+Accessoires pour poulailler,/c/accessoires-pour-poulailler,False
+Alimentation pour animaux de la basse-cour & poule,/c/alimentation-pour-animaux-de-la-basse-cour-et-poule,False
+Poulailler & enclos,/c/poulailler-et-enclos,False
+Griffoir,/c/griffoir,True
+Accessoires d'entretien de litière pour chat,/c/accessoires-d-entretien-de-litiere-pour-chat,True
+Compléments alimentaires pour chat,/c/complements-alimentaires-pour-chat,True
+Eclairage & chauffage pour poulailler,/c/eclairage-et-chauffage-pour-poulailler,True
+"Alimentation pour lapin de ferme, mouton & chèvre",/c/alimentation-pour-lapin-de-ferme-mouton-et-chevre,True
+Clôture pour animaux,/c/cloture-pour-animaux,True
+Poulailler,/c/poulailler,True
+Compléments alimentaires pour animaux de la basse-cour & poule,/c/complements-alimentaires-pour-animaux-de-la-basse-cour-et-poule,True
+Alimentation pour volaille & poule,/c/alimentation-pour-volaille-et-poule,True
+Couveuse pour oeufs & éleveuse à poussins,/c/couveuse-pour-oeufs-et-eleveuse-a-poussins,True
+Abreuvoir & mangeoire pour poule,/c/abreuvoir-et-mangeoire-pour-poule,True
+Herbe à chat,/c/herbe-a-chat,True
+Friandise pour chat,/c/friandise-pour-chat,True
+Pâtée pour chat,/c/patee-pour-chat,True
+Croquettes pour chat,/c/croquettes-pour-chat,True
+Désodorisant pour litière,/c/desodorisant-pour-litiere,True
+Bac à litière pour chat,/c/bac-a-litiere-pour-chat,True
+Maison de toilette pour chat,/c/maison-de-toilette-pour-chat,True
+Litière pour chat,/c/litiere-pour-chat,True
+Arbre à chat,/c/arbre-a-chat,True
+Engrais désherbant gazon,/c/engrais-desherbant-gazon,True
+Librairie & papeterie,/c/librairie-et-papeterie,False
+Enfant & loisir,/c/enfant-et-loisir,False
+"Produits de beauté, soin & bien-être",/c/produits-de-beaute-soin-et-bien-etre,False
+"Bougie, senteur & accessoires",/c/bougie-senteur-et-accessoires,False
+Mobilier d'intérieur,/c/mobilier-d-interieur,False
+Produits & matériel d'entretien ménager,/c/produits-et-materiel-d-entretien-menager,False
+Livre sur les animaux,/c/livre-sur-les-animaux,True
+Peluche pour enfant,/c/peluche-pour-enfant,True
+Accessoires d'ambiance,/c/accessoires-d-ambiance,True
+Bougie & accessoires,/c/bougie-et-accessoires,False
+Meuble sur pied,/c/meuble-sur-pied,True
+Produits de nettoyage d'intérieur,/c/produits-de-nettoyage-d-interieur,True
+Appareil ménager,/c/appareil-menager,True
+Étendoir & séchoir à linge,/c/etendoir-et-sechoir-a-linge,True
+Meuble mural d'intérieur,/c/meuble-mural-d-interieur,True
+Lanterne pour bougie,/c/lanterne-pour-bougie,True
+Bougie parfumée,/c/bougie-parfumee,True
+Bougie décorative,/c/bougie-decorative,True
+Bougeoir & photophore,/c/bougeoir-et-photophore,True
+Accessoires pour bougie,/c/accessoires-pour-bougie,True
+Meuble haut d'intérieur,/c/meuble-haut-d-interieur,True
+Meuble bas d'intérieur,/c/meuble-bas-d-interieur,True
+Fauteuil d'intérieur & siège,/c/fauteuil-d-interieur-et-siege,True
+"Parfum d'ambiance, encens & accessoires",/c/parfum-d-ambiance-encens-et-accessoires,False
+Crème pour les mains,/c/creme-pour-les-mains,True
+Bain de douche,/c/bain-de-douche,True
+Cosmétiques,/c/cosmetiques,True
+Produits pour massage & détente,/c/produits-pour-massage-et-detente,True
+Soin du corps,/c/soin-du-corps,True
+Pot-pourri,/c/pot-pourri,True
+Parfum pour le linge,/c/parfum-pour-le-linge,True
+Parfum d'ambiance,/c/parfum-d-ambiance,True
+Lampe à huile,/c/lampe-a-huile,True
+Huile parfumée,/c/huile-parfumee,True
+Encens,/c/encens,True
+Coffret senteur,/c/coffret-senteur,True
+Brûle-parfum & support,/c/brule-parfum-et-support,True
+Accessoires pour encens,/c/accessoires-pour-encens,True
+Huile essentielle,/c/huile-essentielle,True
+Savon,/c/savon,True
+Livre sur le jardin,/c/livre-sur-le-jardin,True
+Livre sur le bricolage et la déco,/c/livre-sur-le-bricolage-et-la-deco,True
+Livre sur la santé & le bien-être,/c/livre-sur-la-sante-et-le-bien-etre,True
+Livre pour enfants,/c/livre-pour-enfants,True
+Livre de cuisine,/c/livre-de-cuisine,True
+"Carte postale, carnet & accessoires",/c/carte-postale-carnet-et-accessoires,True
+Agenda & calendrier,/c/agenda-et-calendrier,True
+Art de la table,/c/art-de-la-table,False
+"Pot, vase & cache-pot d'intérieur",/c/pot-vase-et-cache-pot-d-interieur,False
+Décoration d'intérieur,/c/decoration-d-interieur,False
+"Poêle, cheminée & accessoires",/c/poele-cheminee-et-accessoires,False
+Décoration de Noël,/c/decoration-de-noel,False
+Boisson,/c/boisson,False
+Vaisselle,/c/vaisselle,True
+Vase,/c/vase,False
+Rangement décoratif,/c/rangement-decoratif,False
+Combustible pour poêle & cheminée,/c/combustible-pour-poele-et-cheminee,False
+Décoration de Noël lumineuse pour l'extérieur,/c/decoration-de-noel-lumineuse-pour-l-exterieur,False
+Champagne & pétillant,/c/champagne-et-petillant,False
+"Apéritif, alcool & liqueur",/c/aperitif-alcool-et-liqueur,False
+Vase transparent,/c/vase-transparent,True
+Panier et corbeille de rangement,/c/panier-et-corbeille-de-rangement,True
+Allume-feu,/c/allume-feu,True
+Guirlande lumineuse de Noël d'extérieur,/c/guirlande-lumineuse-de-noel-d-exterieur,True
+Vin pétillant,/c/vin-petillant,True
+Rhum & cachaça,/c/rhum-et-cachaca,True
+Liqueur & digestif,/c/liqueur-et-digestif,True
+"Apéritif anisé, amer & à base de fruit",/c/aperitif-anise-amer-et-a-base-de-fruit,True
+Apéritif à base de vin,/c/aperitif-a-base-de-vin,True
+"Soda, boisson plate et sirop",/c/soda-boisson-plate-et-sirop,False
+Jus de fruit & légume,/c/jus-de-fruit-et-legume,False
+Bière & cidre,/c/biere-et-cidre,False
+Cave à vin,/c/cave-a-vin,False
+Décoration de Noël maison & table,/c/decoration-de-noel-maison-et-table,True
+Décoration sapin de Noël,/c/decoration-sapin-de-noel,False
+Sirop,/c/sirop,True
+Jus de fruit & smoothie,/c/jus-de-fruit-et-smoothie,True
+Cidre,/c/cidre,True
+Vin rouge en bouteille,/c/vin-rouge-en-bouteille,True
+Vin rouge en bib & cubi,/c/vin-rouge-en-bib-et-cubi,True
+Branche pour décoration de Noël,/c/branche-pour-decoration-de-noel,True
+Guirlande pour sapin,/c/guirlande-pour-sapin,True
+Boule de Noël & suspension,/c/boule-de-noel-et-suspension,True
+Vin rosé en bouteille,/c/vin-rose-en-bouteille,True
+Vin blanc en bouteille,/c/vin-blanc-en-bouteille,True
+Vin blanc en bib & cubi,/c/vin-blanc-en-bib-et-cubi,True
+Bière,/c/biere,True
+Boisson gazeuse,/c/boisson-gazeuse,True
+Accessoires poêle & cheminée,/c/accessoires-poele-et-cheminee,False
+Chauffage,/c/chauffage,False
+Objet de décoration à poser,/c/objet-de-decoration-a-poser,False
+Décoration murale,/c/decoration-murale,False
+Textile de maison,/c/textile-de-maison,False
+Tapis & paillasson,/c/tapis-et-paillasson,True
+Serviteur de cheminée,/c/serviteur-de-cheminee,True
+Poêle à bois,/c/poele-a-bois,True
+Nappe & serviette de table,/c/nappe-et-serviette-de-table,True
+Galette de chaise d'intérieur,/c/galette-de-chaise-d-interieur,True
+Coussin de sol d'intérieur,/c/coussin-de-sol-d-interieur,True
+Coussin d'intérieur,/c/coussin-d-interieur,True
+Chemin de table,/c/chemin-de-table,True
+Miroir,/c/miroir,True
+Horloge,/c/horloge,True
+Déco à suspendre,/c/deco-a-suspendre,True
+Carillon & moulin à vent,/c/carillon-et-moulin-a-vent,True
+Figurine d'animal,/c/figurine-d-animal,True
+Boîte métallique décorative,/c/boite-metallique-decorative,True
+Chauffage électrique,/c/chauffage-electrique,True
+Chauffage à gaz,/c/chauffage-a-gaz,True
+Bouteille de gaz,/c/bouteille-de-gaz,True
+Range-bûche & panier à bois,/c/range-buche-et-panier-a-bois,True
+Plaque de cheminée,/c/plaque-de-cheminee,True
+Pare-feu,/c/pare-feu,True
+Matériel de ramonage,/c/materiel-de-ramonage,True
+Chenet,/c/chenet,True
+Pot de fleur d'intérieur,/c/pot-de-fleur-d-interieur,False
+Porte-plante,/c/porte-plante,True
+Cache-pot,/c/cache-pot,False
+"Poêle, casserole & cocotte",/c/poele-casserole-et-cocotte,True
+Plateau,/c/plateau,True
+Pot d'intérieur pour orchidée,/c/pot-d-interieur-pour-orchidee,True
+Pot d'intérieur pour bonsaï,/c/pot-d-interieur-pour-bonsai,True
+Cache-pot en plastique,/c/cache-pot-en-plastique,True
+Cache-pot en osier,/c/cache-pot-en-osier,True
+Cache-pot en céramique,/c/cache-pot-en-ceramique,True
+Cache-pot aimanté,/c/cache-pot-aimante,True
+Pot d'intérieur en zinc,/c/pot-d-interieur-en-zinc,True
+Tasse & mug,/c/tasse-et-mug,True
+Plat & assiette,/c/plat-et-assiette,True
+Couteau de cuisine,/c/couteau-de-cuisine,True
+Ustensile de cuisine,/c/ustensile-de-cuisine,True
+Electroménager,/c/electromenager,True
+Epicerie sucrée,/c/epicerie-sucree,False
+Epicerie salée,/c/epicerie-salee,False
+Conservation des aliments,/c/conservation-des-aliments,False
+Fleur & plante artificielle,/c/fleur-et-plante-artificielle,False
+Gazon,/c/gazon,False
+"Biscotte, pain grillé & galette",/c/biscotte-pain-grille-et-galette,False
+Produit apéritif,/c/produit-aperitif,False
+Congélateur & accessoires,/c/congelateur-et-accessoires,False
+Fruit & légume artificiel,/c/fruit-et-legume-artificiel,True
+Gazon sport & jeux,/c/gazon-sport-et-jeux,True
+Biscotte,/c/biscotte,True
+Toast,/c/toast,True
+Accessoires de congélation,/c/accessoires-de-congelation,True
+Olive & tartinable,/c/olive-et-tartinable,True
+Chips,/c/chips,True
+"Cacahuète, pistache & mélange de graine pour l'apéritif",/c/cacahuete-pistache-et-melange-de-graine-pour-l-aperitif,True
+Biscuit apéritif,/c/biscuit-aperitif,True
+Gazon pour terrain sec,/c/gazon-pour-terrain-sec,True
+Gazon pour ombre,/c/gazon-pour-ombre,True
+Gazon de regarnissage,/c/gazon-de-regarnissage,True
+Gazon anglais,/c/gazon-anglais,True
+Graines de gazon,/c/graines-de-gazon,True
+Gazon en rouleau,/c/gazon-en-rouleau,True
+Gazon rustique,/c/gazon-rustique,True
+Composition funéraire & accessoires,/c/composition-funeraire-et-accessoires,True
+Accessoires pour composition florale,/c/accessoires-pour-composition-florale,True
+Haie artificielle & mur végétal,/c/haie-artificielle-et-mur-vegetal,True
+Fleur artificielle & bouquet,/c/fleur-artificielle-et-bouquet,False
+Plante verte & arbre artificiel,/c/plante-verte-et-arbre-artificiel,False
+Bocal & confiturier,/c/bocal-et-confiturier,True
+Stérilisateur,/c/sterilisateur,True
+Sauce & condiment,/c/sauce-et-condiment,False
+"Huile, vinaigre & vinaigrette",/c/huile-vinaigre-et-vinaigrette,False
+Bouquet de fleurs artificielles,/c/bouquet-de-fleurs-artificielles,True
+Arbre artificiel,/c/arbre-artificiel,True
+Plante tombante artificielle,/c/plante-tombante-artificielle,True
+Plante artificielle fleurie,/c/plante-artificielle-fleurie,True
+"Sauce froide : ketchup, mayonnaise, béarnaise",/c/sauce-froide-ketchup-mayonnaise-bearnaise,True
+Vinaigre,/c/vinaigre,True
+Huile,/c/huile,True
+Moutarde,/c/moutarde,True
+Cornichon & condiment,/c/cornichon-et-condiment,True
+Plante artificielle verte,/c/plante-artificielle-verte,True
+Jardinière de fleurs artificielles,/c/jardiniere-de-fleurs-artificielles,True
+Tige de fleur artificielle,/c/tige-de-fleur-artificielle,True
+Composition florale artificielle,/c/composition-florale-artificielle,True
+"Sel, épices & aromates",/c/sel-epices-et-aromates,False
+"Pâté, rillette & foie gras",/c/pate-rillette-et-foie-gras,False
+Conserve de poisson,/c/conserve-de-poisson,False
+Conserve de légume,/c/conserve-de-legume,False
+Plat cuisiné,/c/plat-cuisine,False
+"Compote, fruit au sirop & crème dessert",/c/compote-fruit-au-sirop-et-creme-dessert,False
+Sel,/c/sel,True
+Pâté & terrine,/c/pate-et-terrine,True
+Thon en conserve,/c/thon-en-conserve,True
+Champignon en conserve & déshydraté,/c/champignon-en-conserve-et-deshydrate,True
+Plat cuisiné végétarien,/c/plat-cuisine-vegetarien,True
+Fruit au sirop,/c/fruit-au-sirop,True
+Plat cuisiné à base de viande,/c/plat-cuisine-a-base-de-viande,True
+Plat cuisiné à base de pomme de terre,/c/plat-cuisine-a-base-de-pomme-de-terre,True
+Plat cuisiné à base de poisson,/c/plat-cuisine-a-base-de-poisson,True
+Sardine en conserve,/c/sardine-en-conserve,True
+Maquereau en conserve,/c/maquereau-en-conserve,True
+Foie gras,/c/foie-gras,True
+Poivre,/c/poivre,True
+Aromate sec,/c/aromate-sec,True
+Aide culinaire,/c/aide-culinaire,True
+"Pâte à tartiner, confiture & miel",/c/pate-a-tartiner-confiture-et-miel,False
+"Oléagineux, graines & fruit sec",/c/oleagineux-graines-et-fruit-sec,False
+"Farine, sucre & aide pâtisserie",/c/farine-sucre-et-aide-patisserie,False
+"Café, thé & boisson chaude",/c/cafe-the-et-boisson-chaude,False
+Biscuit & gâteau,/c/biscuit-et-gateau,False
+Chocolat & confiserie,/c/chocolat-et-confiserie,False
+Pâte à tartiner & crème,/c/pate-a-tartiner-et-creme,True
+Fruit sec,/c/fruit-sec,True
+Sucre & substitut,/c/sucre-et-substitut,True
+Thé,/c/the,True
+Quatre quarts & gâteau à partager,/c/quatre-quarts-et-gateau-a-partager,True
+Tablette de chocolat,/c/tablette-de-chocolat,True
+Confiserie au chocolat,/c/confiserie-au-chocolat,True
+Bonbon mou,/c/bonbon-mou,True
+Bonbon dur,/c/bonbon-dur,True
+Barre chocolatée,/c/barre-chocolatee,True
+Petit beurre & biscuit sec,/c/petit-beurre-et-biscuit-sec,True
+Pain d'épices & nonnette,/c/pain-d-epices-et-nonnette,True
+Crêpe & Gaufre,/c/crepe-et-gaufre,True
+Brioche & viennoiserie,/c/brioche-et-viennoiserie,True
+Biscuit petit-déjeuner,/c/biscuit-petit-dejeuner,True
+Biscuit individuel pour le goûter,/c/biscuit-individuel-pour-le-gouter,True
+Assortiment de biscuit et mignardise,/c/assortiment-de-biscuit-et-mignardise,True
+Infusion & tisane,/c/infusion-et-tisane,True
+Café & chicorée,/c/cafe-et-chicoree,True
+Préparation pour dessert,/c/preparation-pour-dessert,True
+Nappage & décoration pâtissière,/c/nappage-et-decoration-patissiere,True
+Fruit sec & aide pâtisserie,/c/fruit-sec-et-aide-patisserie,True
+Farine,/c/farine,True
+Miel,/c/miel,True
+Confiture de fruits,/c/confiture-de-fruits,True
+Plante d'intérieur,/c/plante-d-interieur,False
+Plante potagère & aromatique,/c/plante-potagere-et-aromatique,False
+"Arbre, arbuste fruitier & petit fruit",/c/arbre-arbuste-fruitier-et-petit-fruit,False
+Plante d'extérieur,/c/plante-d-exterieur,False
+Tableau & cadre,/c/tableau-et-cadre,True
+Set de table,/c/set-de-table,True
+Fleurs coupées,/c/fleurs-coupees,False
+Pomme de terre & tubercule,/c/pomme-de-terre-et-tubercule,False
+Petit fruit,/c/petit-fruit,False
+Composition de plantes d'extérieur,/c/composition-de-plantes-d-exterieur,True
+Plante annuelle & bisannuelle,/c/plante-annuelle-et-bisannuelle,False
+Conifère,/c/conifere,False
+Fleurs séchées,/c/fleurs-sechees,True
+Tubercule,/c/tubercule,True
+Kiwaï - Actinidia arguta,/c/kiwai-actinidia-arguta,True
+Myrtillier - Vaccinium myrtillus,/c/myrtillier-vaccinium-myrtillus,True
+Plante bisannuelle,/c/plante-bisannuelle,False
+Conifère pour rocaille,/c/conifere-pour-rocaille,False
+Conifère à moyen & grand développement,/c/conifere-a-moyen-et-grand-developpement,False
+Plante annuelle,/c/plante-annuelle,False
+Groseillier à maquereaux - Ribes uva-crispa,/c/groseillier-a-maquereaux-ribes-uva-crispa,True
+Primevère,/c/primevere,True
+If pour rocaille- Taxus,/c/if-pour-rocaille-taxus,True
+Sapin - Abies,/c/sapin-abies,True
+Rudbeckia annuel,/c/rudbeckia-annuel,True
+Pervenche,/c/pervenche,True
+Casseillier - Ribes × nidigrolaria,/c/casseillier-ribes-nidigrolaria,True
+Pourpier d'ornement,/c/pourpier-d-ornement,True
+Némésie - Nemesia,/c/nemesie-nemesia,True
+Lantana,/c/lantana,True
+Plectranthe - Plectranthus,/c/plectranthe-plectranthus,True
+Verveine ornementale,/c/verveine-ornementale,True
+Bacopa,/c/bacopa,True
+Dahlia,/c/dahlia,True
+Géranium-lierre simple GF,/c/geranium-lierre-simple-gf,True
+Œillet commun,/c/illet-commun,True
+Diascia,/c/diascia,True
+Cosmos,/c/cosmos,True
+Lobelia annuelle,/c/lobelia-annuelle,True
+Pâquerette bleue - Felicia amelloides,/c/paquerette-bleue-felicia-amelloides,True
+Impatience de Nouvelle-Guinée extérieur - Impatiens x novae-guinea,/c/impatience-de-nouvelle-guinee-exterieur-impatiens-x-novae-guinea,True
+Fuchsia annuel,/c/fuchsia-annuel,True
+Sauge,/c/sauge,True
+Bégonia d'extérieur,/c/begonia-d-exterieur,True
+Reine-marguerite,/c/reine-marguerite,True
+Héliotrope,/c/heliotrope,True
+Euryops - Marguerite des savanes,/c/euryops-marguerite-des-savanes,True
+Muflier - Antirrhinum,/c/muflier-antirrhinum,True
+Calibrachoa,/c/calibrachoa,True
+Abutilon,/c/abutilon,True
+Scaevola,/c/scaevola,True
+Agérate - Ageratum,/c/agerate-ageratum,True
+Immortelle commune,/c/immortelle-commune,True
+Anthémis,/c/anthemis,True
+Brachyscome,/c/brachyscome,True
+Genévrier - Juniperus,/c/genevrier-juniperus,True
+Pin - Pinus,/c/pin-pinus,True
+Thuya - thuja,/c/thuya-thuja,True
+Séquoia -  Sequoiadendron,/c/sequoia-sequoiadendron,True
+Désespoir des singes - Araucaria d'extérieur,/c/desespoir-des-singes-araucaria-d-exterieur,True
+Mélèze - Larix,/c/meleze-larix,True
+Ginkgo,/c/ginkgo,True
+Cryptomeria,/c/cryptomeria,True
+Faux cyprès - Chamaecyparis,/c/faux-cypres-chamaecyparis,True
+Cyprès - Cupressus,/c/cypres-cupressus,True
+Cèdre - Cedrus,/c/cedre-cedrus,True
+Calocèdre - Calocedrus,/c/calocedre-calocedrus,True
+Épicéa commun - Picea,/c/epicea-commun-picea,True
+Epicéa pour rocaille - Picea,/c/epicea-pour-rocaille-picea,True
+Genévrier pour rocaille - Juniperus,/c/genevrier-pour-rocaille-juniperus,True
+Pin pour rocaille - Pinus,/c/pin-pour-rocaille-pinus,True
+Faux cyprès pour rocaille - Chamaecyparis,/c/faux-cypres-pour-rocaille-chamaecyparis,True
+Cryptomeria pour rocaille,/c/cryptomeria-pour-rocaille,True
+Myosotis,/c/myosotis,True
+Chou d'ornement,/c/chou-d-ornement,True
+Œillet de poète - Dianthus barbatus,/c/illet-de-poete-dianthus-barbatus,True
+Cassissier - Ribes nigrum,/c/cassissier-ribes-nigrum,True
+Groseillier - Ribes,/c/groseillier-ribes,True
+Mûre - Rubus,/c/mure-rubus,True
+Fraisier,/c/fraisier,False
+Noisetier - Corylus,/c/noisetier-corylus,True
+Kiwi - Actinidia,/c/kiwi-actinidia,True
+Framboisier - Rubus idaeus,/c/framboisier-rubus-idaeus,True
+Vigne - Vitis vinifera,/c/vigne-vitis-vinifera,True
+Pomme de terre,/c/pomme-de-terre,True
+Fraisier non remontant,/c/fraisier-non-remontant,True
+Fraisier remontant,/c/fraisier-remontant,True
+Rosier,/c/rosier,False
+Plante de terre de bruyère,/c/plante-de-terre-de-bruyere,False
+Arbre,/c/arbre,False
+Bambou,/c/bambou,False
+Plante grimpante,/c/plante-grimpante,False
+Arbuste,/c/arbuste,False
+Rosier tige & pleureur,/c/rosier-tige-et-pleureur,True
+Leucothoe,/c/leucothoe,True
+Cercidiphyllum,/c/cercidiphyllum,True
+Arundo,/c/arundo,True
+Hortensia grimpant du Japon - Schizophragma,/c/hortensia-grimpant-du-japon-schizophragma,True
+Arbuste pour topiaire,/c/arbuste-pour-topiaire,False
+Arbuste couvre sol,/c/arbuste-couvre-sol,False
+Arbuste caduc,/c/arbuste-caduc,False
+Arbuste persistant,/c/arbuste-persistant,False
+Akébie - Akebia,/c/akebie-akebia,True
+Renouée du Japon - Fallopia,/c/renouee-du-japon-fallopia,True
+Ilex crenata en topiaire,/c/ilex-crenata-en-topiaire,True
+Escallonia red dream,/c/escallonia-red-dream,True
+Seringat - Philadelphus,/c/seringat-philadelphus,True
+Osmanthe - Osmanthus,/c/osmanthe-osmanthus,True
+Lavande arbustive - Lavandula,/c/lavande-arbustive-lavandula,True
+Aucuba,/c/aucuba,True
+Cytise - Cytisus,/c/cytise-cytisus,True
+Céanothe persistant - Ceanothus,/c/ceanothe-persistant-ceanothus,True
+Photinia - Photinie,/c/photinia-photinie,True
+Houx - Ilex,/c/houx-ilex,True
+Millepertuis arbustif - Hypericum,/c/millepertuis-arbustif-hypericum,True
+Genista,/c/genista,True
+Véronique arbustive - Hebe,/c/veronique-arbustive-hebe,True
+Myrte,/c/myrte,True
+Choisya,/c/choisya,True
+Berberis persistant,/c/berberis-persistant,True
+Viorne persistant - Viburnum,/c/viorne-persistant-viburnum,True
+Fusain persistant  - Euonymus,/c/fusain-persistant-euonymus,True
+Troène - Ligustrum,/c/troene-ligustrum,True
+Romarin non rampant,/c/romarin-non-rampant,True
+Santoline - Santolina,/c/santoline-santolina,True
+Eléagnus,/c/eleagnus,True
+Mahonia,/c/mahonia,True
+Abélia,/c/abelia,True
+Forsythia,/c/forsythia,True
+Aronia,/c/aronia,True
+Spirée - Spiraea,/c/spiree-spiraea,True
+Noisetier d'ornement - Corylus,/c/noisetier-d-ornement-corylus,True
+Sumac - Rhus,/c/sumac-rhus,True
+Lespédèze - Lespedeza,/c/lespedeze-lespedeza,True
+Exochorde - Exochorda,/c/exochorde-exochorda,True
+Chèvrefeuille arbustif - Lonicera,/c/chevrefeuille-arbustif-lonicera,True
+Hibiscus caduc,/c/hibiscus-caduc,True
+Potentille arbustive,/c/potentille-arbustive,True
+Lavatère arbustive - Lavatera,/c/lavatere-arbustive-lavatera,True
+Spartium,/c/spartium,True
+Symphorine caduc - Symphoricarpos,/c/symphorine-caduc-symphoricarpos,True
+Caryopteris,/c/caryopteris,True
+Vitex,/c/vitex,True
+Berbéris caduc,/c/berberis-caduc,True
+Amélanchier,/c/amelanchier,True
+Cognassier du Japon - Chaenomeles,/c/cognassier-du-japon-chaenomeles,True
+Groseillier à fleurs - Ribes,/c/groseillier-a-fleurs-ribes,True
+Sureau - Sambucus,/c/sureau-sambucus,True
+Arbre à perruques - Cotinus,/c/arbre-a-perruques-cotinus,True
+Lilas - Syringa,/c/lilas-syringa,True
+Lavande d'Afghanistan - Perovskia,/c/lavande-d-afghanistan-perovskia,True
+Leycesteria,/c/leycesteria,True
+Physocarpe - Physocarpus,/c/physocarpe-physocarpus,True
+Weigela,/c/weigela,True
+Viorne - Viburnum caduc,/c/viorne-viburnum-caduc,True
+Kerria,/c/kerria,True
+Callicarpe - Callicarpa,/c/callicarpe-callicarpa,True
+Deutzies - Deutzia,/c/deutzies-deutzia,True
+Arbre aux papillons - Buddleia,/c/arbre-aux-papillons-buddleia,True
+Fusain caduc - Euonymus,/c/fusain-caduc-euonymus,True
+Kolkwitzia,/c/kolkwitzia,True
+Céanothe caduc - Ceanothus,/c/ceanothe-caduc-ceanothus,True
+Céanothe rampant - Ceanothus,/c/ceanothe-rampant-ceanothus,True
+Cotonéaster couvre-sol,/c/cotoneaster-couvre-sol,True
+Deutzia,/c/deutzia,True
+Forsythia couvre-sol,/c/forsythia-couvre-sol,True
+Fusain de Fortune - Euonymus fortunei,/c/fusain-de-fortune-euonymus-fortunei,True
+Viorne de David - Viburnum Davidii,/c/viorne-de-david-viburnum-davidii,True
+Genista lydia,/c/genista-lydia,True
+Romarin rampant - Rosmarinus officinalis,/c/romarin-rampant-rosmarinus-officinalis,True
+Berberis nain,/c/berberis-nain,True
+Chèvrefeuille couvre-sol - Lonicera,/c/chevrefeuille-couvre-sol-lonicera,True
+Buis commun - Buxus en topiaire,/c/buis-commun-buxus-en-topiaire,True
+Lierre d'extérieur - Hedera,/c/lierre-d-exterieur-hedera,True
+Bignone - Campsis,/c/bignone-campsis,True
+Passiflore - Passiflora,/c/passiflore-passiflora,True
+Vigne vierge - Parthenocissus,/c/vigne-vierge-parthenocissus,True
+Glycine - Wisteria,/c/glycine-wisteria,True
+Chèvrefeuille - Lonicera,/c/chevrefeuille-lonicera,True
+Jasmin - Jasminum,/c/jasmin-jasminum,True
+Hortensia grimpant - Hydrangea petiolaris,/c/hortensia-grimpant-hydrangea-petiolaris,True
+Clématite - Clematis,/c/clematite-clematis,True
+Jasmin étoilé - Trachelospermum,/c/jasmin-etoile-trachelospermum,True
+Pleioblastus,/c/pleioblastus,True
+Sasa,/c/sasa,True
+Pseudosasa,/c/pseudosasa,True
+Semiarundinaria,/c/semiarundinaria,True
+Phyllostachys,/c/phyllostachys,True
+Fargesia,/c/fargesia,True
+Aesculus,/c/aesculus,True
+Paulownia,/c/paulownia,True
+Parrotia,/c/parrotia,True
+Gleditsia,/c/gleditsia,True
+Platane,/c/platane,True
+Orme - Ulmus,/c/orme-ulmus,True
+Tilleul - Tilia,/c/tilleul-tilia,True
+Laburnum,/c/laburnum,True
+Sorbus,/c/sorbus,True
+Aubépine - Crataegus,/c/aubepine-crataegus,True
+Charme - Carpinus,/c/charme-carpinus,True
+Koelreuteria,/c/koelreuteria,True
+Chêne - Quercus,/c/chene-quercus,True
+Frêne - Fraxinus,/c/frene-fraxinus,True
+Micocoulier - Celtis,/c/micocoulier-celtis,True
+Peuplier - Populus,/c/peuplier-populus,True
+Tamarix,/c/tamarix,True
+Poirier - Pyrus,/c/poirier-pyrus,True
+Catapla,/c/catapla,True
+Hêtre - Fagus,/c/hetre-fagus,True
+Robiniers - Robinia,/c/robiniers-robinia,True
+Liriodendron,/c/liriodendron,True
+Sophora,/c/sophora,True
+Liquidambar,/c/liquidambar,True
+Cercis,/c/cercis,True
+Cornouiller - Cornus,/c/cornouiller-cornus,True
+Mûrier - Morus,/c/murier-morus,True
+Bouleau - Betula,/c/bouleau-betula,True
+Prunus,/c/prunus,True
+Saule - Salix,/c/saule-salix,True
+Erable - Acer,/c/erable-acer,True
+Pommier - Malus,/c/pommier-malus,True
+Kalmia,/c/kalmia,True
+Drymis,/c/drymis,True
+Bruyère - Calluna,/c/bruyere-calluna,True
+Andromère - Pieris,/c/andromere-pieris,True
+Skimmia,/c/skimmia,True
+Sarcococca,/c/sarcococca,True
+Hamamelis,/c/hamamelis,True
+Loropetalum,/c/loropetalum,True
+Daphné,/c/daphne,True
+Bruyère - Erica,/c/bruyere-erica,True
+Nandina,/c/nandina,True
+Rhododendron,/c/rhododendron,True
+Magnolia,/c/magnolia,True
+Camélia,/c/camelia,True
+Azalée - Azalea,/c/azalee-azalea,True
+Hortensia - Hydrangea,/c/hortensia-hydrangea,True
+Rosier buisson,/c/rosier-buisson,True
+Rosier couvre-sol,/c/rosier-couvre-sol,True
+Rosier grimpant,/c/rosier-grimpant,True
+Plante vivace & graminée,/c/plante-vivace-et-graminee,False
+Plante de haie,/c/plante-de-haie,False
+Plante méditerranéenne,/c/plante-mediterraneenne,False
+Arbre & arbuste fruitier,/c/arbre-et-arbuste-fruitier,False
+Bulbe potager,/c/bulbe-potager,False
+Graines potagères,/c/graines-potageres,False
+Fougère vivace,/c/fougere-vivace,False
+Conifère pour haie,/c/conifere-pour-haie,False
+Palmier,/c/palmier,False
+Nashi - Pyrus pyrifolia,/c/nashi-pyrus-pyrifolia,True
+Bulbe d'ail,/c/bulbe-d-ail,True
+Graines de salade,/c/graines-de-salade,True
+Dryoptère,/c/dryoptere,True
+Thuya géant - Thuja plicata,/c/thuya-geant-thuja-plicata,True
+Palmier dattier des Canaries - Phoenix canariensis,/c/palmier-dattier-des-canaries-phoenix-canariensis,True
+Washingtonia,/c/washingtonia,True
+Lin de Nouvelle-Zélande -Phormium,/c/lin-de-nouvelle-zelande-phormium,True
+Trachycarpus,/c/trachycarpus,True
+Cordyline d'extérieur,/c/cordyline-d-exterieur,True
+Agave d'extérieur,/c/agave-d-exterieur,True
+Yucca d'extérieur,/c/yucca-d-exterieur,True
+Brahea,/c/brahea,True
+Palmier nain - Chamaerops,/c/palmier-nain-chamaerops,True
+Cyprès de Leyland pour haie - Cupressocyparis leylandii,/c/cypres-de-leyland-pour-haie-cupressocyparis-leylandii,True
+Graines de cucurbitacées,/c/graines-de-cucurbitacees,True
+Graines potagères bio,/c/graines-potageres-bio,True
+Graines de légumes racines,/c/graines-de-legumes-racines,True
+Graines de fèves,/c/graines-de-feves,True
+Graines de choux,/c/graines-de-choux,True
+Graines d'épinards,/c/graines-d-epinards,True
+Graines de solanacées,/c/graines-de-solanacees,True
+Graines de pois,/c/graines-de-pois,True
+Graines de haricots,/c/graines-de-haricots,True
+Graines de poireaux,/c/graines-de-poireaux,True
+Bulbe d'échalotte,/c/bulbe-d-echalotte,True
+Bulbe d'oignon,/c/bulbe-d-oignon,True
+Noyer - Juglans regia,/c/noyer-juglans-regia,True
+Cognassier - Cydonia oblonga,/c/cognassier-cydonia-oblonga,True
+Chataîgner - Castanea,/c/chataigner-castanea,True
+Plaqueminier - Diospyros kaki,/c/plaqueminier-diospyros-kaki,True
+Amandier - Prunus dulcis,/c/amandier-prunus-dulcis,True
+Nectarinier - Prunus persica,/c/nectarinier-prunus-persica,True
+Pêcher - Prunus persica,/c/pecher-prunus-persica,True
+Figuier - Ficus carice,/c/figuier-ficus-carice,True
+Abricotier - Prunus armeniaca,/c/abricotier-prunus-armeniaca,True
+Poirier - Pyrus communis,/c/poirier-pyrus-communis,True
+Prunier - Prunus domestica,/c/prunier-prunus-domestica,True
+Cerisier - Prunus cerasus,/c/cerisier-prunus-cerasus,True
+Agrumes,/c/agrumes,False
+Plante de climat doux,/c/plante-de-climat-doux,False
+Arbuste pour haie,/c/arbuste-pour-haie,False
+Plante graminée,/c/plante-graminee,False
+Plante vivace,/c/plante-vivace,False
+Plant potager,/c/plant-potager,False
+Clémentinier,/c/clementinier,True
+Germandrée - Teucrium,/c/germandree-teucrium,True
+Chèvrefeuille pour haie,/c/chevrefeuille-pour-haie,True
+Acorus,/c/acorus,True
+Zantedeschia,/c/zantedeschia,True
+Pied de courgette,/c/pied-de-courgette,True
+Plant d'aubergine,/c/plant-d-aubergine,True
+Griffe d'asperge,/c/griffe-d-asperge,True
+Plant de tomate,/c/plant-de-tomate,True
+Sabline - Arenaria,/c/sabline-arenaria,True
+Rose trémière - Alcea,/c/rose-tremiere-alcea,True
+Oxalis,/c/oxalis,True
+Physalis,/c/physalis,True
+Hellébore - Helleborus,/c/hellebore-helleborus,True
+Pélargonium - Géranium,/c/pelargonium-geranium,True
+Persicaire - Persicaria,/c/persicaire-persicaria,True
+Véronique - Veronica,/c/veronique-veronica,True
+Népéta,/c/nepeta,True
+Delosperma,/c/delosperma,True
+Lamier - Lamium,/c/lamier-lamium,True
+Anémone,/c/anemone,True
+Scabiosa,/c/scabiosa,True
+Chrysanthemum - Dendranthema,/c/chrysanthemum-dendranthema,True
+Agapanthe - Agapanthus,/c/agapanthe-agapanthus,True
+Pivoine - Paeonia,/c/pivoine-paeonia,True
+Aurinia,/c/aurinia,True
+Saponaria,/c/saponaria,True
+Houttuynia,/c/houttuynia,True
+Platycodon,/c/platycodon,True
+Épiaire - Stachys,/c/epiaire-stachys,True
+Polemonium,/c/polemonium,True
+Crocosmia,/c/crocosmia,True
+Gypsophile - Gypsophila,/c/gypsophile-gypsophila,True
+Armérie - Armeria,/c/armerie-armeria,True
+Campanule vivace - Campanula,/c/campanule-vivace-campanula,True
+Plume du Kansas - Liatris,/c/plume-du-kansas-liatris,True
+Alchémille,/c/alchemille,True
+Rudbeckia vivace,/c/rudbeckia-vivace,True
+Centaurée - Centaurea,/c/centauree-centaurea,True
+Sauge - Salvia,/c/sauge-salvia,True
+Lysimaque - Lysimachia,/c/lysimaque-lysimachia,True
+Lewisia,/c/lewisia,True
+Solidago - Verge d'or,/c/solidago-verge-d-or,True
+Helichrysum,/c/helichrysum,True
+Phlox,/c/phlox,True
+Lavatère vivace - Lavatera,/c/lavatere-vivace-lavatera,True
+Dianthus,/c/dianthus,True
+Gentiane - Gentiana,/c/gentiane-gentiana,True
+Millepertuis vivace - Hypericum,/c/millepertuis-vivace-hypericum,True
+Alyssum,/c/alyssum,True
+Bergénie - Bergenia,/c/bergenie-bergenia,True
+Saxifrage - Saxifraga,/c/saxifrage-saxifraga,True
+Delphinium,/c/delphinium,True
+Penstemon,/c/penstemon,True
+Potentille vivace,/c/potentille-vivace,True
+Aubriète - Aubrieta,/c/aubriete-aubrieta,True
+Pervenche - Vinca,/c/pervenche-vinca,True
+Heuchera - Heuchère,/c/heuchera-heuchere,True
+Erysimum,/c/erysimum,True
+Mauve - Malva,/c/mauve-malva,True
+Phygelius,/c/phygelius,True
+Lithodora,/c/lithodora,True
+Fuchsia rustique,/c/fuchsia-rustique,True
+Verveine - Verbena,/c/verveine-verbena,True
+Lychnis,/c/lychnis,True
+Ipheion,/c/ipheion,True
+Bugle - Ajuga,/c/bugle-ajuga,True
+Achillée - Achillea,/c/achillee-achillea,True
+Ephémère de Virginie - Tradescantia,/c/ephemere-de-virginie-tradescantia,True
+Primevère - Primula acaulis ou vulgaris,/c/primevere-primula-acaulis-ou-vulgaris,True
+Gaillarde - Gaillarda,/c/gaillarde-gaillarda,True
+Hélénie - Helenium,/c/helenie-helenium,True
+Dicentre - Dicentra,/c/dicentre-dicentra,True
+Coreopsis,/c/coreopsis,True
+Catananche,/c/catananche,True
+Aster,/c/aster,True
+Égopode podagraire - Aegopodium,/c/egopode-podagraire-aegopodium,True
+Convolvulus vivace,/c/convolvulus-vivace,True
+Monarde - Monarda,/c/monarde-monarda,True
+Physostegia,/c/physostegia,True
+Cyclamen vivace,/c/cyclamen-vivace,True
+Sagine - Sagina,/c/sagine-sagina,True
+Œnothère,/c/nothere,True
+Cératostigma,/c/ceratostigma,True
+Joubarbe - Sempervivum,/c/joubarbe-sempervivum,True
+Erigeron,/c/erigeron,True
+Échinacée - Echinacea,/c/echinacee-echinacea,True
+Hélianthème - Helianthemum,/c/heliantheme-helianthemum,True
+Anisodontea,/c/anisodontea,True
+Sedum,/c/sedum,True
+Ibéris,/c/iberis,True
+Gaura,/c/gaura,True
+Alstrœmère - Alstroemeria,/c/alstr-mere-alstroemeria,True
+Leucanthemum,/c/leucanthemum,True
+Silène,/c/silene,True
+Centranthe - Centranthus,/c/centranthe-centranthus,True
+Asteriscus,/c/asteriscus,True
+Ajana,/c/ajana,True
+Erodium,/c/erodium,True
+Lis des Cafres - Schizostylis,/c/lis-des-cafres-schizostylis,True
+Lupin - Lupinus,/c/lupin-lupinus,True
+Euphorbe vivace,/c/euphorbe-vivace,True
+Astilbe,/c/astilbe,True
+Hémérocalle - Hemerocallis,/c/hemerocalle-hemerocallis,True
+Pavot - Papaver,/c/pavot-papaver,True
+Sisyrinchium,/c/sisyrinchium,True
+Léontopodium,/c/leontopodium,True
+Iris vivace,/c/iris-vivace,True
+Hosta,/c/hosta,True
+Lobelia vivace,/c/lobelia-vivace,True
+Hibiscus des marais - Hibiscus moscheutos,/c/hibiscus-des-marais-hibiscus-moscheutos,True
+Kniphofia,/c/kniphofia,True
+Pulsatille - Pulsatilla,/c/pulsatille-pulsatilla,True
+Gunnère - Gunnera,/c/gunnere-gunnera,True
+Lampourde - Acaena,/c/lampourde-acaena,True
+Digitale - Digitalis,/c/digitale-digitalis,True
+Acanthe - Acanthus,/c/acanthe-acanthus,True
+Céraiste - Cerastium,/c/ceraiste-cerastium,True
+Ancolie - Aquilegia,/c/ancolie-aquilegia,True
+Arabis,/c/arabis,True
+Benoîte - Geum,/c/benoite-geum,True
+Armoise - Artemisia,/c/armoise-artemisia,True
+Carex,/c/carex,True
+Fétuque - Festuca,/c/fetuque-festuca,True
+Pennisetum,/c/pennisetum,True
+Stipa,/c/stipa,True
+Miscanthus,/c/miscanthus,True
+Photinia pour haie,/c/photinia-pour-haie,True
+Fusain du Japon - Euonymus japonicus,/c/fusain-du-japon-euonymus-japonicus,True
+Charme commun pour haie - Carpinus,/c/charme-commun-pour-haie-carpinus,True
+Troène pour haie,/c/troene-pour-haie,True
+Cotonéaster pour haie,/c/cotoneaster-pour-haie,True
+Laurier-cerise - Prunus laurocerasus,/c/laurier-cerise-prunus-laurocerasus,True
+Berbéris pour haie - Epine-vinette,/c/berberis-pour-haie-epine-vinette,True
+Eleagnus pour haie,/c/eleagnus-pour-haie,True
+Laurier-tin - Viburnum tinus,/c/laurier-tin-viburnum-tinus,True
+Buisson ardent - Pyracantha,/c/buisson-ardent-pyracantha,True
+Escallonia pour haie,/c/escallonia-pour-haie,True
+Buis commun 'Suffruticosa' pour haie,/c/buis-commun-suffruticosa-pour-haie,True
+Nerium,/c/nerium,True
+Acca,/c/acca,True
+Phlomis,/c/phlomis,True
+Tibouchina,/c/tibouchina,True
+Pandorea,/c/pandorea,True
+Laurier - Laurus,/c/laurier-laurus,True
+Casse - Cassia,/c/casse-cassia,True
+Myrte - Myrtus,/c/myrte-myrtus,True
+Liseron argenté - Convolvulus cneorum,/c/liseron-argente-convolvulus-cneorum,True
+Troène du Texas - Ligustrum japonicum Texanum,/c/troene-du-texas-ligustrum-japonicum-texanum,True
+Olearia,/c/olearia,True
+Grevillea,/c/grevillea,True
+Olivier - Olea,/c/olivier-olea,True
+Eucalyptus,/c/eucalyptus,True
+Crinodendre - Crinodendron,/c/crinodendre-crinodendron,True
+Arbousier - Arbutus,/c/arbousier-arbutus,True
+Lilas des Indes - Lagerstroemia,/c/lilas-des-indes-lagerstroemia,True
+Arbre à gentiane - Solanum rantonnetii,/c/arbre-a-gentiane-solanum-rantonnetii,True
+Rince-bouteille - Callistemon,/c/rince-bouteille-callistemon,True
+Coprosme - Coprosma,/c/coprosme-coprosma,True
+Albizia,/c/albizia,True
+Leptospermum,/c/leptospermum,True
+Acacia,/c/acacia,True
+Dorycnium,/c/dorycnium,True
+Prostanthéra,/c/prostanthera,True
+Pittosporum,/c/pittosporum,True
+Griselinia,/c/griselinia,True
+Cistus - Halimiocistus,/c/cistus-halimiocistus,True
+Polygala,/c/polygala,True
+Plumbago,/c/plumbago,True
+Lime - citron vert,/c/lime-citron-vert,True
+Calamondin,/c/calamondin,True
+Mandarinier,/c/mandarinier,True
+Oranger,/c/oranger,True
+Citronnier,/c/citronnier,True
+Kumquat,/c/kumquat,True
+Plante & herbe aromatique,/c/plante-et-herbe-aromatique,False
+Terrarium & Kokedama,/c/terrarium-et-kokedama,False
+Orchidée,/c/orchidee,False
+Bonsaï d'intérieur,/c/bonsai-d-interieur,False
+Plante carnivore,/c/plante-carnivore,False
+Plante fleurie,/c/plante-fleurie,False
+Cerfeuil - Anthriscus cerefolium,/c/cerfeuil-anthriscus-cerefolium,True
+Terrarium pour plante,/c/terrarium-pour-plante,True
+Orchidée Cambria,/c/orchidee-cambria,True
+Laurier d'Inde - Ficus microcarpa 'Ginseng',/c/laurier-d-inde-ficus-microcarpa-ginseng,True
+Nepenthes,/c/nepenthes,True
+Kalanchoe,/c/kalanchoe,True
+"Poinsettia, Etoile de Noël - Euphorbia pulcherrima",/c/poinsettia-etoile-de-noel-euphorbia-pulcherrima,True
+Plante zèbre - Aphelandra squarrosa,/c/plante-zebre-aphelandra-squarrosa,True
+Fille de l'air - Tillandsia,/c/fille-de-l-air-tillandsia,True
+"Rosier miniature, mini-rosier - Rosa",/c/rosier-miniature-mini-rosier-rosa,True
+Aeschynanthe - Aeschynanthus,/c/aeschynanthe-aeschynanthus,True
+"Jasmin du Cap, Gardénia - Gardenia jasminoides",/c/jasmin-du-cap-gardenia-gardenia-jasminoides,True
+Langue de feu - Anthurium,/c/langue-de-feu-anthurium,True
+Tulipe du Siam - Curcuma alismatifolia,/c/tulipe-du-siam-curcuma-alismatifolia,True
+Bégonia d'intérieur,/c/begonia-d-interieur,True
+Bromelia - Bromeliaceae,/c/bromelia-bromeliaceae,False
+Cyclamen de Perse Halios - Cyclamen persicum,/c/cyclamen-de-perse-halios-cyclamen-persicum,True
+Medinilla magnifica,/c/medinilla-magnifica,True
+Oiseau de paradis - Strelitzia reginae,/c/oiseau-de-paradis-strelitzia-reginae,True
+Fleur de Lune - Spathiphyllum,/c/fleur-de-lune-spathiphyllum,True
+Sarracenia,/c/sarracenia,True
+Ananas comosus,/c/ananas-comosus,True
+Vriesea,/c/vriesea,True
+Guzmania,/c/guzmania,True
+Dionée attrape-mouche - Dionaea,/c/dionee-attrape-mouche-dionaea,True
+Orchidée Vanda,/c/orchidee-vanda,True
+Orchidée papillon - Phalaenopsis,/c/orchidee-papillon-phalaenopsis,True
+Camomille - Chamaemelum nobile,/c/camomille-chamaemelum-nobile,True
+Fenouil - Foeniculum vulgare,/c/fenouil-foeniculum-vulgare,True
+Angelique - Angelica archangelica,/c/angelique-angelica-archangelica,True
+Aneth - Anethum graveolens,/c/aneth-anethum-graveolens,True
+Sarriette - Satureja,/c/sarriette-satureja,True
+Oseille - Rumex acetosa,/c/oseille-rumex-acetosa,True
+Rhubarbe - Rheum,/c/rhubarbe-rheum,True
+Bourrache - Borago officinalis,/c/bourrache-borago-officinalis,True
+Absinthe - Artemisia absinthium,/c/absinthe-artemisia-absinthium,True
+Origan - Origanum vulgare,/c/origan-origanum-vulgare,True
+Sauge officinale - Salvia officinalis,/c/sauge-officinale-salvia-officinalis,True
+Mélisse - Melissa officinalis,/c/melisse-melissa-officinalis,True
+Ciboule - Allium fistulosum,/c/ciboule-allium-fistulosum,True
+Coriandre - Coriandrum sativum,/c/coriandre-coriandrum-sativum,True
+Estragon - Artemisia dracunculus,/c/estragon-artemisia-dracunculus,True
+Citronnelle de Madagascar - Cymbopogon citratus,/c/citronnelle-de-madagascar-cymbopogon-citratus,True
+Romarin - Rosmarinus,/c/romarin-rosmarinus,True
+Ciboulette - Allium schoenoprasum,/c/ciboulette-allium-schoenoprasum,True
+Persil - Petroselinum crispum,/c/persil-petroselinum-crispum,True
+Basilic - Ocimum basilicum,/c/basilic-ocimum-basilicum,True
+Laurier sauce - Laurus nobilis,/c/laurier-sauce-laurus-nobilis,True
+Lavande - Lavandula,/c/lavande-lavandula,True
+Verveine aromatique,/c/verveine-aromatique,True
+Thym - Thymus,/c/thym-thymus,True
+Menthe - Mentha,/c/menthe-mentha,True
+Cactus & plante grasse,/c/cactus-et-plante-grasse,False
+Plante verte,/c/plante-verte,False
+Sapin de Noël,/c/sapin-de-noel,False
+Sac de transport décoré,/c/sac-de-transport-decore,True
+Soin antiparasitaire pour chat,/c/soin-antiparasitaire-pour-chat,False
+Aloe,/c/aloe,True
+"Cactus orchidée, de Noël et gui",/c/cactus-orchidee-de-noel-et-gui,True
+Hélixine - Helxine / Soleirolia,/c/helixine-helxine-soleirolia,True
+Sapin de Noël floqué,/c/sapin-de-noel-floque,True
+Sapin de Noël naturel,/c/sapin-de-noel-naturel,False
+Vermifuge pour chat,/c/vermifuge-pour-chat,True
+Peigne anti-puce pour chat,/c/peigne-anti-puce-pour-chat,True
+Anti-puce pour chat,/c/anti-puce-pour-chat,True
+Sapin de Noël en bois,/c/sapin-de-noel-en-bois,True
+Sapin de Noël artificiel,/c/sapin-de-noel-artificiel,False
+Sapin de Noël Epicea,/c/sapin-de-noel-epicea,True
+Sapin de Noël Nordmann,/c/sapin-de-noel-nordmann,True
+Palmier éventail - Livistonia,/c/palmier-eventail-livistonia,True
+Cocotier - Cocos nucifera,/c/cocotier-cocos-nucifera,True
+Désespoir des singes - Araucaria d'intérieur,/c/desespoir-des-singes-araucaria-d-interieur,True
+Sapin de Noël artificiel blanc,/c/sapin-de-noel-artificiel-blanc,True
+Sapin de Noël artificiel vert,/c/sapin-de-noel-artificiel-vert,True
+Accessoires pour sapin artificiel,/c/accessoires-pour-sapin-artificiel,True
+Vigne d'appartement - Cissus,/c/vigne-d-appartement-cissus,True
+Aglaonema,/c/aglaonema,True
+Dieffenbachia,/c/dieffenbachia,True
+Papyrus - Cyperus alternifolius,/c/papyrus-cyperus-alternifolius,True
+Aralia du Japon et faux Aralia - Aralia Dizygotheca Fatsia,/c/aralia-du-japon-et-faux-aralia-aralia-dizygotheca-fatsia,True
+Tableau végétal,/c/tableau-vegetal,True
+Capillaire - Adiantum,/c/capillaire-adiantum,True
+Pothos - Scindapsus,/c/pothos-scindapsus,True
+Dormeuse - Maranta leuconeura,/c/dormeuse-maranta-leuconeura,True
+Croton - Codiaeum variegatum,/c/croton-codiaeum-variegatum,True
+Fougère Pteris,/c/fougere-pteris,True
+Radermachera - Stereospermum,/c/radermachera-stereospermum,True
+Epinard hawaïen - Cordyline fruticosa,/c/epinard-hawaien-cordyline-fruticosa,True
+Chaîne des coeurs - Ceropegia woodii,/c/chaine-des-coeurs-ceropegia-woodii,True
+Pilea,/c/pilea,True
+Polyscias,/c/polyscias,True
+Fougère Blechne - Blechnum,/c/fougere-blechne-blechnum,True
+Pied d'éléphant - Nolina beaucarnea,/c/pied-d-elephant-nolina-beaucarnea,True
+Oreille d'éléphant - Alocasia,/c/oreille-d-elephant-alocasia,True
+Fougère d'intérieur,/c/fougere-d-interieur,True
+Lucky bambou - Dracaena sanderiana,/c/lucky-bambou-dracaena-sanderiana,True
+Fougère nid d'oiseau - Asplenium nidus,/c/fougere-nid-d-oiseau-asplenium-nidus,True
+Patte d'oie - Syngonium podophyllum,/c/patte-d-oie-syngonium-podophyllum,True
+Cycas du Japon - Cycas revoluta,/c/cycas-du-japon-cycas-revoluta,True
+Yucca d'intérieur,/c/yucca-d-interieur,True
+Schefflera,/c/schefflera,True
+Séneçon - Senecio,/c/senecon-senecio,True
+Plante ZZ - Zamioculcas zamiifolia,/c/plante-zz-zamioculcas-zamiifolia,True
+Palmier hawaïen - Brighamia,/c/palmier-hawaien-brighamia,True
+Plante araignée - Chlorophytum d'intérieur,/c/plante-araignee-chlorophytum-d-interieur,True
+Asparagus d'intérieur,/c/asparagus-d-interieur,True
+Bananier d'intérieur - Musa,/c/bananier-d-interieur-musa,True
+Lierre d'intérieur - Hedera,/c/lierre-d-interieur-hedera,True
+Philodendron,/c/philodendron,True
+Dragonnier - Dracaena,/c/dragonnier-dracaena,True
+Misère - Tradescantia,/c/misere-tradescantia,True
+Palmier de montagne - Chamaedora elegans,/c/palmier-de-montagne-chamaedora-elegans,True
+Pachira aquatica,/c/pachira-aquatica,True
+Palmier d'intérieur Kentia - Howeia forsteriana,/c/palmier-d-interieur-kentia-howeia-forsteriana,True
+Ficus d'intérieur,/c/ficus-d-interieur,True
+Faux Philodendron - Monstera deliciosa,/c/faux-philodendron-monstera-deliciosa,True
+Palmier d'intérieur - Areca,/c/palmier-d-interieur-areca,True
+Peperomia,/c/peperomia,True
+Fougère de Boston - Nephrolepis exaltata,/c/fougere-de-boston-nephrolepis-exaltata,True
+Calathea,/c/calathea,True
+Haworthia,/c/haworthia,True
+Echinocactus,/c/echinocactus,True
+Cactus raquettes - Opuntia,/c/cactus-raquettes-opuntia,True
+Aeonium,/c/aeonium,True
+Echeveria,/c/echeveria,True
+Langue de Belle-mère - Sansevieria,/c/langue-de-belle-mere-sansevieria,True
+Euphorbe d'intérieur - Euphorbia,/c/euphorbe-d-interieur-euphorbia,True
+Crassula,/c/crassula,True

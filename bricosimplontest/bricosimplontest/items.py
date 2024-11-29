@@ -6,7 +6,12 @@
 import scrapy
 
 
-class BricosimplontestItem(scrapy.Item):
+class BookscraperItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    nom_produit =  scrapy.Field()
+    note =  scrapy.Field()
+    prix =  scrapy.Field()
+    id_produit =  scrapy.Field()
+    url =  scrapy.Field()
+
