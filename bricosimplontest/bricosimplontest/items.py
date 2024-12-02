@@ -13,5 +13,7 @@ class BookscraperItem(scrapy.Item):
     note =  scrapy.Field()
     prix =  scrapy.Field()
     id_produit =  scrapy.Field()
+    categorie = scrapy.Field()
+    sous_categorie = scrapy.Field()
     url =  scrapy.Field()
 
