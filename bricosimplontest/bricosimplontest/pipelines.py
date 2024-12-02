@@ -10,4 +10,8 @@ from itemadapter import ItemAdapter
 
 class BricosimplontestPipeline:
     def process_item(self, item, spider):
+        if 'prix' in item:
+
+            item['prix'] = item['prix'].replace('\u202f€',' ').strip()
+
         return item
