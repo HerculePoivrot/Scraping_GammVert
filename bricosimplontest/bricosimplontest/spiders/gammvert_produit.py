@@ -10,7 +10,8 @@ class GammvertSpider(scrapy.Spider):
 
     name = "gammvert"
     allowed_domains = ["www.gammvert.fr"]
-    url_depart= ['https://www.gammvert.fr/']
+    start_urls= ['https://www.gammvert.fr/']
+    url_actuel = ''
     page_index = 1
     
 
@@ -28,16 +29,16 @@ class GammvertSpider(scrapy.Spider):
             if d['is_page_list']:
                 self.page_index = 1
                 self.calculer_nb_pages = False
-
+                self.url_actuel = self.start_urls[0] + d['category_url'][1:]
                 yield scrapy.Request(
-                    url = self.url_depart[0] + d['category_url'][1:],
+                    url = self.url_actuel,
                     callback=self.parse)
 
+    calculer_nb_pages = False
 
-
-
+    page_index = 1
     def parse(self, response):
-  
+
         articles = response.css('.ens-product-list__item')
         
         if not self.calculer_nb_pages : 
@@ -78,7 +79,8 @@ class GammvertSpider(scrapy.Spider):
                 categorie = categorie_principale,
                 sous_categorie = sous_categorie_principale,
                 url = url)
-
-        if self.page_index < self.nb_pages:
+        
+        if self.page_index <= self.nb_pages or self.page_index == 20:
             self.page_index += 1
-            yield response.follow(self.start_urls[0]+ f'?p={self.page_index}', callback = self.parse)
+
+            yield response.follow(self.url_actuel+ '?p='+str(self.page_index), callback = self.parse)
